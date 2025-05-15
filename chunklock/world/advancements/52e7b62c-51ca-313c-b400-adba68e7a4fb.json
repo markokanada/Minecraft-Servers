@@ -1117,6 +1117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-15 22:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-15 20:09:54 +0000"
@@ -1126,6 +1132,18 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-15 16:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-15 22:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-15 22:09:54 +0000"
     },
     "done": true
   },
@@ -1177,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-05-15 22:08:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-15 18:32:47 +0000"
@@ -1186,6 +1210,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-05-15 19:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-15 22:08:27 +0000"
     },
     "done": true
   },
@@ -1210,6 +1240,18 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-15 16:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-15 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-15 22:08:47 +0000"
     },
     "done": true
   },
@@ -1252,6 +1294,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-15 17:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-15 22:08:47 +0000"
     },
     "done": true
   },
@@ -1369,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-15 22:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-15 17:03:01 +0000"
@@ -1384,6 +1438,24 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-15 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-15 22:09:54 +0000"
+    },
+    "done": true
+  },
+  "chunklock:main/chunks_nether_unlocked_1": {
+    "criteria": {
+      "chunksUnlocked": "2025-05-15 22:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-15 22:08:49 +0000"
     },
     "done": true
   },
@@ -1411,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-15 22:09:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-15 17:55:22 +0000"
@@ -1420,6 +1498,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-15 20:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-15 22:09:54 +0000"
     },
     "done": true
   },
