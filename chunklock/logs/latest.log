@@ -1,0 +1,433 @@
+[16:09:26] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[16:09:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:09:32] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[16:09:32] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[16:09:34] [ServerMain/INFO]: Loaded 1175 recipes
+[16:09:34] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 7969ms.
+[16:09:34] [ServerMain/INFO]: Loaded 1300 advancements
+[16:09:35] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[16:09:35] [Server thread/INFO]: Loading properties
+[16:09:35] [Server thread/INFO]: This server is running Paper version 1.20.6-151-ver/1.20.6@a4f0f5c (2024-10-30T19:13:22Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[16:09:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:09:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:09:37] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[16:09:37] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 6 worker threads, and gen parallelism of 6 threads
+[16:09:37] [Server thread/INFO]: Default game type: SURVIVAL
+[16:09:37] [Server thread/INFO]: Generating keypair
+[16:09:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:09:37] [Server thread/INFO]: Using epoll channel type
+[16:09:37] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:09:37] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[16:09:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:09:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:09:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:09:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:09:37] [Server thread/INFO]: Preparing level "world"
+[16:09:38] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[16:09:38] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[16:09:38] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[16:09:38] [Server thread/INFO]: Attempting to move world/DIM-1 to world_nether/DIM-1...
+[16:09:38] [Server thread/INFO]: Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+[16:09:38] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[16:09:38] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[16:09:38] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[16:09:38] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[16:09:38] [Server thread/INFO]: Attempting to move world/DIM1 to world_the_end/DIM1...
+[16:09:38] [Server thread/INFO]: Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+[16:09:38] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[16:09:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:09:39] [Server thread/INFO]: Time elapsed: 1338 ms
+[16:09:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:09:39] [Server thread/INFO]: Time elapsed: 245 ms
+[16:09:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:09:41] [Server thread/INFO]: Time elapsed: 1169 ms
+[16:09:41] [Server thread/INFO]: Starting remote control listener
+[16:09:41] [Server thread/INFO]: Thread RCON Listener started
+[16:09:41] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[16:09:41] [Server thread/INFO]: Running delayed init tasks
+[16:09:41] [Server thread/INFO]: Done (5.927s)! For help, type "help"
+[16:09:41] [Server thread/INFO]: Timings Reset
+[16:10:02] [User Authenticator #0/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[16:10:03] [Server thread/INFO]: KellSo joined the game
+[16:10:03] [Server thread/INFO]: KellSo[/192.168.0.1:57684] logged in with entity id 539 at ([world]-20.79193520444672, 92.0, 59.07401884936289)
+[16:10:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:10:25] [Server thread/INFO]: KellSo issued server command: /tps
+[16:11:22] [User Authenticator #1/INFO]: UUID of player Petranszki is a8d8eae2-d93c-3d93-8bd1-f8eff6a9a599
+[16:11:23] [Server thread/INFO]: Petranszki joined the game
+[16:11:23] [Server thread/INFO]: Petranszki[/46.139.112.85:49369] logged in with entity id 6937 at ([world]-10.597103901604312, 95.0, 16.802173272625232)
+[16:11:36] [Server thread/INFO]: KellSo issued server command: /tps
+[16:11:47] [Server thread/INFO]: KellSo issued server command: /tps
+[16:12:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:12:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:14:18] [Server thread/INFO]: KellSo issued server command: /difficulty
+[16:14:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:15:31] [User Authenticator #2/INFO]: UUID of player Apreal is 240a440a-af2b-39c4-9168-a81b7c25a996
+[16:15:32] [Server thread/INFO]: Apreal joined the game
+[16:15:32] [Server thread/INFO]: Apreal[/100.68.35.137:58986] logged in with entity id 28019 at ([world]139.23424005352499, 69.0, -36.1991822908995)
+[16:15:39] [Server thread/INFO]: KellSo issued server command: /tps
+[16:15:41] [User Authenticator #2/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[16:15:42] [Server thread/INFO]: Szarka_ joined the game
+[16:15:42] [Server thread/INFO]: Szarka_[/100.82.159.228:51826] logged in with entity id 29319 at ([world]102.54940199871363, -18.0, 2.6044954871314356)
+[16:15:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:15:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:15:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:15:52] [Async Chat Thread - #0/INFO]: [Not Secure] <KellSo> hátha jobb most ne mvanilla hanem paper futtatja
+[16:15:54] [Server thread/INFO]: KellSo issued server command: /tps
+[16:16:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:16:04] [Server thread/INFO]: KellSo issued server command: /tps
+[16:16:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[16:16:15] [Server thread/INFO]: KellSo issued server command: /tps
+[16:16:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:16:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:16:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:16:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[16:18:57] [Server thread/INFO]: KellSo issued server command: /tps
+[16:19:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:19:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[16:19:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:19:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:19:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:20:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:20:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:20:10] [Async Chat Thread - #1/INFO]: [Not Secure] <Apreal> wher village
+[16:20:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Petranszki> Nincs
+[16:20:19] [Async Chat Thread - #1/INFO]: [Not Secure] <KellSo> under construction
+[16:20:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Apreal> :o
+[16:20:26] [Async Chat Thread - #1/INFO]: [Not Secure] <Petranszki> Megette Szarka
+[16:20:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:20:38] [Async Chat Thread - #1/INFO]: [Not Secure] <Szarka_> nem!
+[16:20:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Petranszki> Ne hazudj, te voltál!
+[16:20:55] [Async Chat Thread - #1/INFO]: [Not Secure] <KellSo> jobb amúgy Panda?
+[16:20:57] [Async Chat Thread - #1/INFO]: [Not Secure] <Szarka_> nem!
+[16:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[16:21:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Apreal> nekem jobbnak érződött
+[16:21:20] [Async Chat Thread - #1/INFO]: [Not Secure] <KellSo> egyelőre itt is
+[16:21:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:21:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:21:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:21:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[16:22:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[16:22:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:22:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:23:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:23:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[16:23:28] [Server thread/INFO]: Szarka_ lost connection: Disconnected
+[16:23:28] [Server thread/INFO]: Szarka_ left the game
+[16:23:30] [Async Chat Thread - #3/INFO]: [Not Secure] <KellSo> alvááás
+[16:23:31] [Server thread/INFO]: Apreal lost connection: Disconnected
+[16:23:31] [Server thread/INFO]: Apreal left the game
+[16:23:35] [User Authenticator #3/INFO]: UUID of player Apreal is 240a440a-af2b-39c4-9168-a81b7c25a996
+[16:23:36] [Server thread/INFO]: Apreal joined the game
+[16:23:36] [Server thread/INFO]: Apreal[/100.68.35.137:59056] logged in with entity id 105105 at ([world]-8.877095535065617, 94.5, 13.596902376131693)
+[16:23:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:23:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:24:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:24:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:25:10] [User Authenticator #4/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[16:25:10] [Server thread/INFO]: Szarka_ joined the game
+[16:25:10] [Server thread/INFO]: Szarka_[/100.82.159.228:52019] logged in with entity id 117090 at ([world]94.69999998807907, -23.0, -2.14288445826216)
+[16:25:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:25:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:25:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:25:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[16:26:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Apreal> loptam bőrt
+[16:26:08] [Async Chat Thread - #5/INFO]: [Not Secure] <Petranszki> Kiről?
+[16:26:10] [Async Chat Thread - #5/INFO]: [Not Secure] <KellSo> van bőr a képeden?
+[16:26:17] [Async Chat Thread - #5/INFO]: [Not Secure] <Apreal> van bőr hozzá bizony
+[16:26:26] [Async Chat Thread - #5/INFO]: [Not Secure] <Petranszki> Mingyá' jövök, megyek étkezni újonnan!
+[16:26:27] [Server thread/INFO]: Petranszki lost connection: Disconnected
+[16:26:27] [Server thread/INFO]: Petranszki left the game
+[16:26:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:26:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:26:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:26:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:26:54] [Server thread/INFO]: Apreal has made the advancement [Ice Bucket Challenge]
+[16:28:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:28:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:28:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:28:52] [Server thread/INFO]: Szarka_ has made the advancement [Diamonds!]
+[16:30:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:30:24] [Async Chat Thread - #7/INFO]: [Not Secure] <Apreal> Márkó
+[16:30:27] [Async Chat Thread - #7/INFO]: [Not Secure] <Apreal> where u rn
+[16:30:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:30:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:31:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:31:22] [Server thread/INFO]: Szarka_ has made the advancement [Not Today, Thank You]
+[16:31:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:31:41] [Server thread/INFO]: Szarka_ has made the advancement [Monster Hunter]
+[16:31:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:31:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[16:31:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:32:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:32:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[16:32:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:32:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3360ms or 67 ticks behind
+[16:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[16:33:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:33:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:33:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:33:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:34:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:34:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:34:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:35:00] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> alvááás
+[16:35:03] [Server thread/INFO]: Szarka_ lost connection: Disconnected
+[16:35:03] [Server thread/INFO]: Szarka_ left the game
+[16:35:21] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> jaa nem néztem a chatet amúgy a falu helyén
+[16:35:33] [User Authenticator #5/INFO]: UUID of player ItsJustYuriii is 1f5b918a-59b5-3fa9-9850-4e48ecbdc780
+[16:35:33] [Server thread/INFO]: ItsJustYuriii joined the game
+[16:35:33] [Server thread/INFO]: ItsJustYuriii[/46.139.205.235:55257] logged in with entity id 195708 at ([world]-11.308867691113985, 95.0, 22.333078633727617)
+[16:35:36] [Async Chat Thread - #9/INFO]: [Not Secure] <ItsJustYuriii> Haló
+[16:35:44] [Server thread/INFO]: KellSo issued server command: /gamerule playersSleepingPercentage 33
+[16:35:44] [Server thread/INFO]: [KellSo: Gamerule playersSleepingPercentage is now set to: 33]
+[16:35:47] [User Authenticator #5/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[16:35:47] [Server thread/INFO]: Szarka_ joined the game
+[16:35:47] [Server thread/INFO]: Szarka_[/100.82.159.228:52131] logged in with entity id 197407 at ([world]77.85009201715222, -40.0, -2.7158293606144395)
+[16:35:48] [Async Chat Thread - #9/INFO]: [Not Secure] <ItsJustYuriii> Többiek?
+[16:35:48] [Async Chat Thread - #9/INFO]: [Not Secure] <Apreal> gyere egy kicsit
+[16:35:54] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> Petra eszik
+[16:35:59] [Async Chat Thread - #9/INFO]: [Not Secure] <ItsJustYuriii> Alr
+[16:36:00] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> hova
+[16:36:03] [Async Chat Thread - #9/INFO]: [Not Secure] <Apreal> odef fel
+[16:36:05] [Async Chat Thread - #9/INFO]: [Not Secure] <ItsJustYuriii> Vasfarm mien?
+[16:36:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:36:08] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> nice
+[16:36:17] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> chunkhhoz?
+[16:36:21] [Server thread/WARN]: KellSo moved wrongly!
+[16:36:25] [Async Chat Thread - #9/INFO]: [Not Secure] <Szarka_> találtam skeleton spawnert!!!
+[16:36:35] [Async Chat Thread - #9/INFO]: [Not Secure] <ItsJustYuriii> Mennyi chunknák járunk?
+[16:36:41] [Server thread/INFO]: ItsJustYuriii has made the advancement [Suit Up]
+[16:36:42] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> 297?
+[16:36:43] [Async Chat Thread - #9/INFO]: [Not Secure] <Apreal> kb 300
+[16:36:43] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> khm
+[16:36:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:36:56] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> PANDAAA hovaa
+[16:37:01] [Async Chat Thread - #9/INFO]: [Not Secure] <Apreal> fel a bázisodhoz
+[16:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[16:37:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:37:06] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> ja oks
+[16:37:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[16:37:57] [Async Chat Thread - #9/INFO]: [Not Secure] <Apreal> hova
+[16:37:57] [Async Chat Thread - #9/INFO]: [Not Secure] <KellSo> :O
+[16:39:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:40:27] [Async Chat Thread - #11/INFO]: [Not Secure] <ItsJustYuriii> Nem nyílik az enchant
+[16:40:32] [Async Chat Thread - #11/INFO]: [Not Secure] <ItsJustYuriii> De a chest igen
+[16:40:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:40:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:40:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[16:40:42] [Server thread/INFO]: ItsJustYuriii lost connection: Disconnected
+[16:40:42] [Server thread/INFO]: ItsJustYuriii left the game
+[16:40:43] [User Authenticator #6/INFO]: UUID of player ItsJustYuriii is 1f5b918a-59b5-3fa9-9850-4e48ecbdc780
+[16:40:43] [Server thread/INFO]: ItsJustYuriii joined the game
+[16:40:43] [Server thread/INFO]: ItsJustYuriii[/46.139.205.235:55421] logged in with entity id 244698 at ([world]-38.03617942962056, 131.0, -30.144489229502682)
+[16:40:47] [Async Chat Thread - #11/INFO]: [Not Secure] <ItsJustYuriii> Still no
+[16:40:55] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> Nekem működik
+[16:40:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:41:40] [Async Chat Thread - #11/INFO]: [Not Secure] <ItsJustYuriii> Nem tudok blokkot kiszedni de chestet nyitni és kivenni dolgokat tudok
+[16:41:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:41:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:42:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:42:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> Márkó véletlen megvagy lvl20?
+[16:42:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:42:14] [Async Chat Thread - #11/INFO]: [Not Secure] <ItsJustYuriii> De csak a raktár körül
+[16:42:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:42:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:42:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:42:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:42:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:42:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:42:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:43:01] [Async Chat Thread - #11/INFO]: [Not Secure] <KellSo> aha
+[16:43:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:43:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:43:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:43:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:43:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:43:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:43:12] [Server thread/INFO]: KellSo issued server command: /op ItsJustYuriii
+[16:43:12] [Server thread/INFO]: [KellSo: Made ItsJustYuriii a server operator]
+[16:43:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:43:16] [Async Chat Thread - #11/INFO]: [Not Secure] <KellSo> tessék Yurii
+[16:43:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> tegyél már erre rá egy ub3-t
+[16:43:27] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> azt adja
+[16:43:44] [Async Chat Thread - #11/INFO]: [Not Secure] <KellSo> eficiency 3, ef2, ub1
+[16:43:49] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> perfect
+[16:43:52] [Async Chat Thread - #11/INFO]: [Not Secure] <KellSo> mármint
+[16:43:53] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> eff3
+[16:43:55] [Async Chat Thread - #11/INFO]: [Not Secure] <ItsJustYuriii> Köszi
+[16:43:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:43:56] [Server thread/INFO]: KellSo has made the advancement [Enchanter]
+[16:44:06] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> köszipuszi
+[16:44:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[16:44:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:33] [Server thread/INFO]: KellSo issued server command: /tps
+[16:44:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[16:45:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:45:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:45:16] [Async Chat Thread - #13/INFO]: [Not Secure] <KellSo> amúgy ig akkor így jobban fut r?
+[16:45:23] [Async Chat Thread - #13/INFO]: [Not Secure] <Apreal> je
+[16:45:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[16:46:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:46:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[16:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[16:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[16:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[16:49:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:49:40] [Server thread/INFO]: Apreal lost connection: Disconnected
+[16:49:40] [Server thread/INFO]: Apreal left the game
+[16:49:43] [User Authenticator #7/INFO]: UUID of player Apreal is 240a440a-af2b-39c4-9168-a81b7c25a996
+[16:49:44] [Server thread/INFO]: Apreal joined the game
+[16:49:44] [Server thread/INFO]: Apreal[/100.68.35.137:50353] logged in with entity id 331167 at ([world]131.66613590798033, 0.0, -51.68486324524227)
+[16:49:50] [Async Chat Thread - #15/INFO]: [Not Secure] <Szarka_> panda mostmar nem kell disconnectelni
+[16:49:51] [Async Chat Thread - #15/INFO]: [Not Secure] <ItsJustYuriii> plugin??
+[16:49:53] [Async Chat Thread - #15/INFO]: [Not Secure] <Szarka_> nem
+[16:49:59] [Async Chat Thread - #16/INFO]: [Not Secure] <Szarka_> vanilla gamerule
+[16:50:07] [Async Chat Thread - #16/INFO]: [Not Secure] <KellSo> Gamerule, hogy hány %-nak kell aludni
+[16:50:12] [Async Chat Thread - #16/INFO]: [Not Secure] <Apreal> oh
+[16:50:13] [Async Chat Thread - #16/INFO]: [Not Secure] <Apreal> pog
+[16:50:14] [Async Chat Thread - #16/INFO]: [Not Secure] <KellSo> 33%-ra van állítva
+[16:50:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[16:51:27] [Server thread/INFO]: Szarka_ has made the advancement [A Seedy Place]
+[16:51:35] [Async Chat Thread - #17/INFO]: [Not Secure] <ItsJustYuriii> Norbi
+[16:51:40] [Async Chat Thread - #17/INFO]: [Not Secure] <Szarka_> hm
+[16:51:52] [Async Chat Thread - #18/INFO]: [Not Secure] <Szarka_> van nálam 1 stack
+[16:51:54] [Async Chat Thread - #18/INFO]: [Not Secure] <Szarka_> de köszi
+[16:51:56] [Async Chat Thread - #18/INFO]: [Not Secure] <ItsJustYuriii> Nem elég
+[16:52:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[16:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[16:53:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[16:53:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[16:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[16:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[16:54:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:54:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:54:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:54:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[16:55:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[16:55:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:55:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:55:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[16:55:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:55:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[16:55:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2931ms or 58 ticks behind
+[16:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[16:56:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:56:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:56:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[16:56:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
+[16:57:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[16:57:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[16:58:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:58:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[16:58:19] [Server thread/INFO]: Szarka_ has reached the goal [The Grass is Always Chunkier]
+[16:58:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[16:58:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:58:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:58:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
+[16:59:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:59:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[16:59:16] [Async Chat Thread - #19/INFO]: [Not Secure] <ItsJustYuriii> Kifarmoltam 16 oxeyet daily good deed meg is lett
+[16:59:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[16:59:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[16:59:55] [Async Chat Thread - #19/INFO]: [Not Secure] <ItsJustYuriii> Meg 26 azuret
+[17:00:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:00:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[17:00:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:00:17] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:00:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:00:21] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:23] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:24] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:25] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:26] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:26] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:27] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:28] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:29] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:29] [User Authenticator #8/INFO]: UUID of player Petranszki is a8d8eae2-d93c-3d93-8bd1-f8eff6a9a599
+[17:00:29] [Server thread/INFO]: Petranszki joined the game
+[17:00:29] [Server thread/INFO]: Petranszki[/46.139.112.85:51636] logged in with entity id 427920 at ([world]89.21488200423336, 63.0, 67.08795859028686)
+[17:00:29] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:30] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:31] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:32] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:33] [Async Chat Thread - #19/INFO]: [Not Secure] <ItsJustYuriii> Hi
+[17:00:33] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:34] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:34] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:35] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:36] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9989ms or 199 ticks behind
+[17:00:36] [Async Chat Thread - #19/INFO]: [Not Secure] <Petranszki> Haii!
+[17:00:44] [Server thread/INFO]: KellSo issued server command: /tps
+[17:00:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:00:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4223ms or 84 ticks behind
+[17:01:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:01:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[17:01:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:01:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
+[17:01:35] [Server thread/INFO]: KellSo issued server command: /tps
+[17:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3796ms or 75 ticks behind
+[17:01:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:01:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:02:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4957ms or 99 ticks behind
+[17:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4062ms or 81 ticks behind
+[17:02:32] [Async Chat Thread - #21/INFO]: [Not Secure] <ItsJustYuriii> Na viszont amúgy én lépek
+[17:02:37] [Async Chat Thread - #21/INFO]: [Not Secure] <ItsJustYuriii> Majd szombaton Iguess
+[17:02:37] [Async Chat Thread - #21/INFO]: [Not Secure] <Apreal> cya
+[17:02:37] [Async Chat Thread - #21/INFO]: [Not Secure] <KellSo> byebye
+[17:02:40] [Async Chat Thread - #21/INFO]: [Not Secure] <ItsJustYuriii> Bye
+[17:02:43] [Server thread/INFO]: ItsJustYuriii lost connection: Disconnected
+[17:02:43] [Async Chat Thread - #21/INFO]: [Not Secure] <Petranszki> Haii
+[17:02:45] [Server thread/INFO]: ItsJustYuriii left the game
+[17:02:48] [Async Chat Thread - #21/INFO]: [Not Secure] <Apreal> Már csak 60 layer kell!
+[17:02:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4790ms or 95 ticks behind
+[17:02:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:02:59] [Async Chat Thread - #21/INFO]: [Not Secure] <Petranszki> Beteg vagy
+[17:03:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:03:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[17:04:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:04:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[17:04:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:04:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:04:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[17:04:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:04:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[17:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind

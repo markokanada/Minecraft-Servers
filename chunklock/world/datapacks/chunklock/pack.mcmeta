@@ -1,0 +1,25 @@
+{
+  "pack": {
+    "description": "Chunklock",
+    "pack_format": 61,
+    "supported_formats": [
+      26,
+      61
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_41",
+        "formats": 41
+      },
+      {
+        "directory": "overlay_48",
+        "formats": [
+          48,
+          61
+        ]
+      }
+    ]
+  }
+}
