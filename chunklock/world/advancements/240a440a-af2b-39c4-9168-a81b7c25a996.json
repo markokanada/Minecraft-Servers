@@ -2462,6 +2462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-16 18:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-05-16 18:05:25 +0000"
