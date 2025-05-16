@@ -434,6 +434,7 @@
       "cooked_porkchop": "2025-05-13 12:21:51 +0000",
       "apple": "2025-05-15 18:03:01 +0000",
       "bread": "2025-05-13 12:10:28 +0000",
+      "cooked_mutton": "2025-05-16 16:16:13 +0000",
       "cooked_beef": "2025-05-15 18:10:38 +0000",
       "baked_potato": "2025-05-13 12:57:56 +0000",
       "beetroot": "2025-05-13 11:57:42 +0000",
@@ -1938,6 +1939,12 @@
   "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-16 13:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-16 16:04:31 +0000"
     },
     "done": true
   },
