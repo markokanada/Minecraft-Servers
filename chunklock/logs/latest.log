@@ -22,3 +22,20 @@
 [13:17:47] [User Authenticator #12/INFO]: UUID of player AtikaLimbo is 4296d0a5-412a-3e6c-a038-5d78919a3427
 [13:17:48] [Server thread/INFO]: AtikaLimbo joined the game
 [13:17:48] [Server thread/INFO]: AtikaLimbo[/92.249.149.109:51548] logged in with entity id 3282391 at ([world]57.17975444699026, 65.0, 65.54734032986292)
+[13:23:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:25:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:25:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:27:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:28:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:30:09] [Server thread/INFO]: AtikaLimbo lost connection: Disconnected
+[13:30:09] [Server thread/INFO]: AtikaLimbo left the game
+[13:30:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:30:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
