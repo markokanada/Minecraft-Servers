@@ -193,3 +193,14 @@
 [14:38:41] [Async Chat Thread - #83/INFO]: [Not Secure] <KellSo> heoooooo
 [14:38:43] [Server thread/INFO]: Petranszki lost connection: Disconnected
 [14:38:43] [Server thread/INFO]: Petranszki left the game
+[15:30:55] [Server thread/INFO]: KellSo issued server command: /gamemode creative
+[15:30:55] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[15:31:02] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[15:31:06] [Server thread/INFO]: KellSo issued server command: /gamemode survival
+[15:31:06] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[15:31:56] [Server thread/INFO]: KellSo issued server command: /gamerule randomTickSpeed
+[15:31:59] [Server thread/INFO]: KellSo issued server command: /gamerule randomTickSpeed 30
+[15:31:59] [Server thread/INFO]: [KellSo: Gamerule randomTickSpeed is now set to: 30]
+[15:32:00] [Server thread/INFO]: KellSo issued server command: /tps
+[15:32:02] [Server thread/INFO]: KellSo issued server command: /tps
+[15:32:07] [Server thread/INFO]: KellSo issued server command: /tps
