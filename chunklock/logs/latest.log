@@ -223,3 +223,11 @@
 [16:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
 [16:19:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
 [16:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[16:26:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:34:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:35:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:35:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:35:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16:36:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[16:37:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[16:38:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
