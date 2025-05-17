@@ -2257,6 +2257,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-05-17 12:35:20 +0000",
+      "minecraft:pig": "2025-05-17 14:58:50 +0000",
       "minecraft:sheep": "2025-05-17 12:36:05 +0000"
     },
     "done": false
@@ -2291,6 +2292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-17 15:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-05-17 14:46:28 +0000"
@@ -2303,9 +2310,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-17 14:57:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-17 14:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-17 14:57:43 +0000"
     },
     "done": true
   },
