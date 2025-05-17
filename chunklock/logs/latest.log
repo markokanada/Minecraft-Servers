@@ -13,3 +13,5 @@
 [09:03:57] [User Authenticator #23/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
 [09:03:57] [Server thread/INFO]: Szarka_ joined the game
 [09:03:57] [Server thread/INFO]: Szarka_[/100.82.159.228:59062] logged in with entity id 6727956 at ([world]-38.1670372599461, 131.0, -32.17641271732477)
+[09:27:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[09:27:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
