@@ -279,6 +279,7 @@
       "apple": "2025-05-17 10:43:02 +0000",
       "bread": "2025-05-15 16:55:15 +0000",
       "potato": "2025-05-17 12:27:55 +0000",
+      "cooked_beef": "2025-05-17 15:25:42 +0000",
       "carrot": "2025-05-15 19:49:42 +0000"
     },
     "done": false
@@ -2346,6 +2347,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-17 15:25:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-05-17 14:16:19 +0000"
@@ -2370,9 +2377,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-17 15:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-17 14:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-17 15:23:10 +0000"
     },
     "done": true
   },
