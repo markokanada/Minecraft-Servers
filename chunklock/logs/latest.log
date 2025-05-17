@@ -30,3 +30,19 @@
 [10:41:44] [User Authenticator #26/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
 [10:41:44] [Server thread/INFO]: Szarka_ joined the game
 [10:41:44] [Server thread/INFO]: Szarka_[/100.82.159.228:59678] logged in with entity id 6914182 at ([world]78.23397652629828, 63.0, -2.300000011920929)
+[11:54:54] [Server thread/INFO]: Szarka_ lost connection: Disconnected
+[11:54:54] [Server thread/INFO]: Szarka_ left the game
+[11:54:57] [User Authenticator #27/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[11:54:58] [Server thread/INFO]: Szarka_ joined the game
+[11:54:58] [Server thread/INFO]: Szarka_[/100.82.159.228:60355] logged in with entity id 7102224 at ([world]78.68933228396094, 63.0, 0.30000001192092896)
+[11:55:22] [Server thread/INFO]: Szarka_ lost connection: Disconnected
+[11:55:22] [Server thread/INFO]: Szarka_ left the game
+[11:57:06] [User Authenticator #28/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[11:57:07] [Server thread/INFO]: Szarka_ joined the game
+[11:57:07] [Server thread/INFO]: Szarka_[/100.82.159.228:60451] logged in with entity id 7104138 at ([world]78.218462208249, 63.0, 0.5475048372729264)
+[11:57:37] [Async Chat Thread - #145/INFO]: [Not Secure] <Szarka_> asdsadasd
+[11:58:16] [Server thread/INFO]: Szarka_ lost connection: Timed out
+[11:58:16] [Server thread/INFO]: Szarka_ left the game
+[11:59:21] [User Authenticator #29/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[11:59:22] [Server thread/INFO]: Szarka_ joined the game
+[11:59:22] [Server thread/INFO]: Szarka_[/100.82.159.228:53382] logged in with entity id 7108351 at ([world]96.5793776924104, 62.9375, -14.139409450608216)
