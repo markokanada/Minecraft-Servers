@@ -281,3 +281,9 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [22:19:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [22:19:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [22:19:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22:20:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22:20:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22:20:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22:20:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22:25:06] [Server thread/INFO]: Szarka_ lost connection: Disconnected
+[22:25:06] [Server thread/INFO]: Szarka_ left the game
