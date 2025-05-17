@@ -22,3 +22,11 @@
 [10:22:14] [Server thread/INFO]: Szarka_[/100.82.159.228:59367] logged in with entity id 6863583 at ([world]37.5, 63.0, 17.5)
 [10:40:01] [Server thread/INFO]: Szarka_ lost connection: Timed out
 [10:40:01] [Server thread/INFO]: Szarka_ left the game
+[10:40:05] [User Authenticator #25/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[10:40:06] [Server thread/INFO]: Szarka_ joined the game
+[10:40:06] [Server thread/INFO]: Szarka_[/100.82.159.228:59580] logged in with entity id 6910358 at ([world]81.11608130684961, 63.0, -1.9153695315109065)
+[10:41:06] [Server thread/INFO]: Szarka_ lost connection: Disconnected
+[10:41:06] [Server thread/INFO]: Szarka_ left the game
+[10:41:44] [User Authenticator #26/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[10:41:44] [Server thread/INFO]: Szarka_ joined the game
+[10:41:44] [Server thread/INFO]: Szarka_[/100.82.159.228:59678] logged in with entity id 6914182 at ([world]78.23397652629828, 63.0, -2.300000011920929)
