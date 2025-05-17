@@ -69,3 +69,22 @@
 [12:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
 [12:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
 [12:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[12:40:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[12:40:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[12:41:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[12:41:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:59] [Server thread/INFO]: Szarka_ lost connection: Disconnected
+[12:41:59] [Server thread/INFO]: Szarka_ left the game
+[12:42:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:48] [Server thread/INFO]: ItsJustYuriii lost connection: Disconnected
+[12:43:48] [Server thread/INFO]: ItsJustYuriii left the game
+[12:44:17] [User Authenticator #32/INFO]: UUID of player Petranszki is a8d8eae2-d93c-3d93-8bd1-f8eff6a9a599
+[12:44:18] [Server thread/INFO]: Petranszki joined the game
+[12:44:18] [Server thread/INFO]: Petranszki[/46.139.112.85:50606] logged in with entity id 7247857 at ([world]37.56307046191997, 63.0, 16.30000001192093)
