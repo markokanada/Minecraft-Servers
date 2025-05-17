@@ -999,7 +999,8 @@
       "minecraft:magma_cube": "2025-05-15 22:45:10 +0000",
       "minecraft:spider": "2025-05-15 16:48:24 +0000",
       "minecraft:zombie": "2025-05-15 22:54:53 +0000",
-      "minecraft:creeper": "2025-05-16 21:53:47 +0000"
+      "minecraft:creeper": "2025-05-16 21:53:47 +0000",
+      "minecraft:zombie_villager": "2025-05-17 12:13:00 +0000"
     },
     "done": false
   },
@@ -2201,6 +2202,18 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-17 11:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-17 12:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-17 12:00:06 +0000"
     },
     "done": true
   },
