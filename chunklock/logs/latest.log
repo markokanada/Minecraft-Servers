@@ -6,3 +6,10 @@
 [08:56:42] [User Authenticator #22/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
 [08:56:43] [Server thread/INFO]: Szarka_ joined the game
 [08:56:43] [Server thread/INFO]: Szarka_[/100.82.159.228:54255] logged in with entity id 6707654 at ([world]83.56591377541928, 63.05116000125884, 0.3068249508875198)
+[09:00:27] [Async Chat Thread - #141/INFO]: [Not Secure] <Szarka_> asd
+[09:03:44] [Async Chat Thread - #143/INFO]: [Not Secure] <Szarka_> sadsadsadsadsad
+[09:03:53] [Server thread/INFO]: Szarka_ lost connection: Disconnected
+[09:03:53] [Server thread/INFO]: Szarka_ left the game
+[09:03:57] [User Authenticator #23/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[09:03:57] [Server thread/INFO]: Szarka_ joined the game
+[09:03:57] [Server thread/INFO]: Szarka_[/100.82.159.228:59062] logged in with entity id 6727956 at ([world]-38.1670372599461, 131.0, -32.17641271732477)
