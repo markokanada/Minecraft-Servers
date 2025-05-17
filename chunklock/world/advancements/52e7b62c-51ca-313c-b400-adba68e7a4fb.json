@@ -2218,24 +2218,23 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-17 12:31:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-17 12:30:54 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "minecraft:cow": "2025-05-17 12:35:20 +0000",
-      "minecraft:sheep": "2025-05-17 12:36:05 +0000"
+      "has_paper": "2025-05-17 12:30:54 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-17 12:31:17 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
@@ -2249,17 +2248,18 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-05-17 12:30:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-17 12:31:17 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-05-17 12:35:20 +0000",
+      "minecraft:sheep": "2025-05-17 12:36:05 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
