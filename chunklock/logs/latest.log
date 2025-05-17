@@ -17,3 +17,8 @@
 [09:27:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [09:56:05] [Server thread/INFO]: Szarka_ lost connection: Disconnected
 [09:56:05] [Server thread/INFO]: Szarka_ left the game
+[10:22:13] [User Authenticator #24/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[10:22:14] [Server thread/INFO]: Szarka_ joined the game
+[10:22:14] [Server thread/INFO]: Szarka_[/100.82.159.228:59367] logged in with entity id 6863583 at ([world]37.5, 63.0, 17.5)
+[10:40:01] [Server thread/INFO]: Szarka_ lost connection: Timed out
+[10:40:01] [Server thread/INFO]: Szarka_ left the game
