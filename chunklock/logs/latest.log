@@ -1,816 +1,199 @@
-[08:48:58] [User Authenticator #21/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[08:48:58] [Server thread/INFO]: Szarka_ joined the game
-[08:48:58] [Server thread/INFO]: Szarka_[/100.82.159.228:53616] logged in with entity id 6690565 at ([world]74.186678318182, 63.0, 2.886665635816147)
-[08:55:12] [Server thread/INFO]: Szarka_ lost connection: Disconnected
-[08:55:12] [Server thread/INFO]: Szarka_ left the game
-[08:56:42] [User Authenticator #22/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[08:56:43] [Server thread/INFO]: Szarka_ joined the game
-[08:56:43] [Server thread/INFO]: Szarka_[/100.82.159.228:54255] logged in with entity id 6707654 at ([world]83.56591377541928, 63.05116000125884, 0.3068249508875198)
-[09:00:27] [Async Chat Thread - #141/INFO]: [Not Secure] <Szarka_> asd
-[09:03:44] [Async Chat Thread - #143/INFO]: [Not Secure] <Szarka_> sadsadsadsadsad
-[09:03:53] [Server thread/INFO]: Szarka_ lost connection: Disconnected
-[09:03:53] [Server thread/INFO]: Szarka_ left the game
-[09:03:57] [User Authenticator #23/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[09:03:57] [Server thread/INFO]: Szarka_ joined the game
-[09:03:57] [Server thread/INFO]: Szarka_[/100.82.159.228:59062] logged in with entity id 6727956 at ([world]-38.1670372599461, 131.0, -32.17641271732477)
-[09:27:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[09:27:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[09:56:05] [Server thread/INFO]: Szarka_ lost connection: Disconnected
-[09:56:05] [Server thread/INFO]: Szarka_ left the game
-[10:22:13] [User Authenticator #24/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[10:22:14] [Server thread/INFO]: Szarka_ joined the game
-[10:22:14] [Server thread/INFO]: Szarka_[/100.82.159.228:59367] logged in with entity id 6863583 at ([world]37.5, 63.0, 17.5)
-[10:40:01] [Server thread/INFO]: Szarka_ lost connection: Timed out
-[10:40:01] [Server thread/INFO]: Szarka_ left the game
-[10:40:05] [User Authenticator #25/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[10:40:06] [Server thread/INFO]: Szarka_ joined the game
-[10:40:06] [Server thread/INFO]: Szarka_[/100.82.159.228:59580] logged in with entity id 6910358 at ([world]81.11608130684961, 63.0, -1.9153695315109065)
-[10:41:06] [Server thread/INFO]: Szarka_ lost connection: Disconnected
-[10:41:06] [Server thread/INFO]: Szarka_ left the game
-[10:41:44] [User Authenticator #26/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[10:41:44] [Server thread/INFO]: Szarka_ joined the game
-[10:41:44] [Server thread/INFO]: Szarka_[/100.82.159.228:59678] logged in with entity id 6914182 at ([world]78.23397652629828, 63.0, -2.300000011920929)
-[11:54:54] [Server thread/INFO]: Szarka_ lost connection: Disconnected
-[11:54:54] [Server thread/INFO]: Szarka_ left the game
-[11:54:57] [User Authenticator #27/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[11:54:58] [Server thread/INFO]: Szarka_ joined the game
-[11:54:58] [Server thread/INFO]: Szarka_[/100.82.159.228:60355] logged in with entity id 7102224 at ([world]78.68933228396094, 63.0, 0.30000001192092896)
-[11:55:22] [Server thread/INFO]: Szarka_ lost connection: Disconnected
-[11:55:22] [Server thread/INFO]: Szarka_ left the game
-[11:57:06] [User Authenticator #28/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[11:57:07] [Server thread/INFO]: Szarka_ joined the game
-[11:57:07] [Server thread/INFO]: Szarka_[/100.82.159.228:60451] logged in with entity id 7104138 at ([world]78.218462208249, 63.0, 0.5475048372729264)
-[11:57:37] [Async Chat Thread - #145/INFO]: [Not Secure] <Szarka_> asdsadasd
-[11:58:16] [Server thread/INFO]: Szarka_ lost connection: Timed out
-[11:58:16] [Server thread/INFO]: Szarka_ left the game
-[11:59:21] [User Authenticator #29/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[11:59:22] [Server thread/INFO]: Szarka_ joined the game
-[11:59:22] [Server thread/INFO]: Szarka_[/100.82.159.228:53382] logged in with entity id 7108351 at ([world]96.5793776924104, 62.9375, -14.139409450608216)
-[12:14:29] [Server thread/INFO]: Szarka_ lost connection: Disconnected
-[12:14:29] [Server thread/INFO]: Szarka_ left the game
-[12:20:08] [User Authenticator #30/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[12:20:08] [Server thread/INFO]: Szarka_ joined the game
-[12:20:08] [Server thread/INFO]: Szarka_[/100.82.159.228:54463] logged in with entity id 7148413 at ([world]81.50520016389315, 62.9375, -3.8729448206888075)
-[12:26:35] [User Authenticator #31/INFO]: UUID of player ItsJustYuriii is 1f5b918a-59b5-3fa9-9850-4e48ecbdc780
-[12:26:36] [Server thread/INFO]: ItsJustYuriii joined the game
-[12:26:36] [Server thread/INFO]: ItsJustYuriii[/46.139.205.235:58025] logged in with entity id 7166490 at ([world]-51.53933165287979, 131.0, 1.8319993148727554)
-[12:27:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:28:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[12:29:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
-[12:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[12:29:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:30:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[12:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[12:35:20] [Server thread/INFO]: Szarka_ has made the advancement [The Parrots and the Bats]
-[12:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[12:35:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:35:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[12:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[12:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[12:40:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:40:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:40:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[12:40:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
-[12:41:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[12:41:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:41:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:41:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:41:59] [Server thread/INFO]: Szarka_ lost connection: Disconnected
-[12:41:59] [Server thread/INFO]: Szarka_ left the game
-[12:42:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:43:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[12:43:48] [Server thread/INFO]: ItsJustYuriii lost connection: Disconnected
-[12:43:48] [Server thread/INFO]: ItsJustYuriii left the game
-[12:44:17] [User Authenticator #32/INFO]: UUID of player Petranszki is a8d8eae2-d93c-3d93-8bd1-f8eff6a9a599
-[12:44:18] [Server thread/INFO]: Petranszki joined the game
-[12:44:18] [Server thread/INFO]: Petranszki[/46.139.112.85:50606] logged in with entity id 7247857 at ([world]37.56307046191997, 63.0, 16.30000001192093)
-[13:33:30] [User Authenticator #33/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
-[13:33:31] [Server thread/INFO]: Szarka_ joined the game
-[13:33:31] [Server thread/INFO]: Szarka_[/100.82.159.228:55681] logged in with entity id 7375444 at ([world]87.703085054054, 63.0, 57.15598202441654)
-[13:33:56] [Async Chat Thread - #147/INFO]: [Not Secure] <Szarka_> panda
-[13:34:04] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> most nekünk most mi nekünk most mi kell
-[13:34:05] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> még
-[13:34:24] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> *neked* milyen erőforrás hiányzik
-[13:34:27] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> ja
-[13:34:28] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> szia petra
-[13:34:31] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Hai
-[13:34:32] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> azt hittem a panda jott fel
-[13:34:36] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Nope
-[13:34:38] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> (mert azt mondta)
-[13:34:45] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Hazudott
-[13:34:47] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> te lattad a csontvazfarmom? :3
-[13:34:58] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Nope, nem értem hogy működik az új
-[13:35:04] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> hol vaty
-[13:35:07] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Jövök le
-[13:35:14] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> itt vagyok fent
-[13:35:35] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> helo
-[13:36:23] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> auswitz
-[13:36:30] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Aw shit, here we go again
-[13:36:39] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> ritchmann
-[13:36:42] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> És az ott fent minden az micsudi?
-[13:36:51] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Felviszi a cuccokat?
-[13:36:53] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> az automatikusan felviszi a lootot
-[13:36:54] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> igeb
-[13:37:00] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> meg elrakja chestekbe
-[13:37:04] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Az azért elég 200iq
-[13:37:13] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> van egy kapcsolo is ami kapcsolja a bal vagy a jobb oldali chestekbe szorja
-[13:37:21] [User Authenticator #34/INFO]: UUID of player Apreal is 240a440a-af2b-39c4-9168-a81b7c25a996
-[13:37:22] [Server thread/INFO]: Apreal joined the game
-[13:37:22] [Server thread/INFO]: Apreal[/100.68.35.137:57882] logged in with entity id 7394546 at ([world]144.69999998807907, -44.0, -61.30000001192093)
-[13:37:26] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> a fenebe
-[13:37:43] [Async Chat Thread - #148/INFO]: [Not Secure] <Apreal> melyikotok tett foldet ide a lepcsomre
-[13:37:53] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Milyen lépcső?
-[13:38:00] [Async Chat Thread - #148/INFO]: [Not Secure] <Apreal> a chunkom körül
-[13:38:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[13:38:05] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> milyen föld
-[13:38:10] [Async Chat Thread - #148/INFO]: [Not Secure] <Petranszki> Én csak chestből szedtem követ
-[13:38:14] [Server thread/WARN]: Szarka_ moved too quickly! -0.4599969517119149,10.987093718564289,0.13133268601960102
-[13:38:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:38:25] [Async Chat Thread - #148/INFO]: [Not Secure] <Apreal> elképzelhető hogy random enderman tette ide?
-[13:38:29] [Async Chat Thread - #148/INFO]: [Not Secure] <Apreal> csak mert fű volt
-[13:38:31] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> ja voltak
-[13:38:31] [Async Chat Thread - #148/INFO]: [Not Secure] <Apreal> hm
-[13:38:36] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> bevégzők
-[13:38:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
-[13:38:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:38:50] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> panda!! neked milyen erőforrás hiányzik épp
-[13:38:58] [Async Chat Thread - #148/INFO]: [Not Secure] <Apreal> jég
-[13:38:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
-[13:39:03] [Async Chat Thread - #148/INFO]: [Not Secure] <Apreal> meg slime
-[13:39:05] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> hm
-[13:39:13] [Async Chat Thread - #147/INFO]: [Not Secure] <Szarka_> slimera ötlet?
-[13:39:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind
-[13:39:16] [Async Chat Thread - #147/INFO]: [Not Secure] <Szarka_> van valahol swamp?
-[13:39:20] [Async Chat Thread - #147/INFO]: [Not Secure] <Apreal> találni egy slime chunkot
-[13:39:22] [Async Chat Thread - #147/INFO]: [Not Secure] <Apreal> vagy swampot
-[13:39:24] [Async Chat Thread - #147/INFO]: [Not Secure] <Szarka_> ah
-[13:39:27] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> keresek
-[13:39:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
-[13:39:34] [Async Chat Thread - #148/INFO]: [Not Secure] <Apreal> nem fogsz találni.
-[13:39:40] [Async Chat Thread - #148/INFO]: [Not Secure] <Szarka_> :(
-[13:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
-[13:39:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
-[13:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
-[13:40:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:35] [Server thread/WARN]: Szarka_ moved too quickly! 8.802902238775857,5.0,0.11997685492302423
-[13:40:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
-[13:40:47] [Server thread/INFO]: Apreal issued server command: /seed
-[13:41:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4457ms or 89 ticks behind
-[13:41:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
-[13:41:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:28] [Async Chat Thread - #149/INFO]: [Not Secure] <Apreal> úú
-[13:41:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:41:32] [Async Chat Thread - #149/INFO]: [Not Secure] <Szarka_> űűű
-[13:41:34] [Async Chat Thread - #149/INFO]: [Not Secure] <Apreal> elvileg van itt slime chunk
-[13:41:36] [Async Chat Thread - #149/INFO]: [Not Secure] <Apreal> mellettünk
-[13:41:39] [Async Chat Thread - #149/INFO]: [Not Secure] <Szarka_> hol!
-[13:41:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4058ms or 81 ticks behind
-[13:41:54] [Async Chat Thread - #149/INFO]: [Not Secure] <Apreal> a 2 y 0 az elvileg slime chunk
-[13:42:03] [Async Chat Thread - #149/INFO]: [Not Secure] <Szarka_> huh
-[13:42:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
-[13:42:04] [Async Chat Thread - #149/INFO]: [Not Secure] <Apreal> mindjárt megcsinálom a farmot hogy megnézzem igaz-e
-[13:42:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:42:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:42:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:42:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:42:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:42:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3736ms or 74 ticks behind
-[13:42:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:42:36] [Async Chat Thread - #149/INFO]: [Not Secure] <Apreal> a slime chunk finder legalábbis ezt hazudja
-[13:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2981ms or 59 ticks behind
-[13:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2950ms or 59 ticks behind
-[13:43:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3027ms or 60 ticks behind
-[13:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
-[13:43:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3435ms or 68 ticks behind
-[13:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
-[13:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
-[13:44:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
-[13:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3391ms or 67 ticks behind
-[13:45:10] [Async Chat Thread - #151/INFO]: [Not Secure] <Szarka_> minden 10. chunk elvileg slime chunk
-[13:45:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3484ms or 69 ticks behind
-[13:45:31] [Async Chat Thread - #151/INFO]: [Not Secure] <Szarka_> Random.Range(0,9) == 0 az algo
-[13:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
-[13:45:50] [Async Chat Thread - #152/INFO]: [Not Secure] <Szarka_> szerintem megyek bányászni
-[13:45:53] [Async Chat Thread - #151/INFO]: [Not Secure] <Szarka_> mert az mindig jo
-[13:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3084ms or 61 ticks behind
-[13:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[13:46:22] [Server thread/WARN]: Szarka_ moved too quickly! 8.047523710604679,1.1036092609382138,-5.917987247787453
-[13:46:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
-[13:46:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3496ms or 69 ticks behind
-[13:47:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3928ms or 78 ticks behind
-[13:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3846ms or 76 ticks behind
-[13:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2943ms or 58 ticks behind
-[13:48:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
-[13:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3151ms or 63 ticks behind
-[13:48:26] [Async Chat Thread - #153/INFO]: [Not Secure] <Apreal> legyen ugy
-[13:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
-[13:48:51] [Server thread/INFO]: Szarka_ fell from a high place
-[13:48:58] [Async Chat Thread - #154/INFO]: [Not Secure] <Szarka_> BRUH BERAGADT A W-m
-[13:49:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3645ms or 72 ticks behind
-[13:49:04] [Async Chat Thread - #154/INFO]: [Not Secure] <Petranszki> Edd meg
-[13:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
-[13:49:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:49:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:49:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:49:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
-[13:49:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:49:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:49:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:49:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
-[13:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4089ms or 81 ticks behind
-[13:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3543ms or 70 ticks behind
-[13:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
-[13:51:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4051ms or 81 ticks behind
-[13:51:16] [Async Chat Thread - #155/INFO]: [Not Secure] <Apreal> pill es jovok
-[13:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3412ms or 68 ticks behind
-[13:51:40] [Server thread/INFO]: Apreal lost connection: Disconnected
-[13:51:40] [Server thread/INFO]: Apreal left the game
-[13:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
-[13:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[13:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[13:53:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
-[13:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
-[13:54:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:54:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
-[13:55:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[13:55:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[13:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
-[13:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[13:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
-[13:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[13:58:08] [Async Chat Thread - #157/INFO]: [Not Secure] <Szarka_> találtam eddig 30 gyémántot :D
-[13:58:13] [Async Chat Thread - #157/INFO]: [Not Secure] <Petranszki> Anyás
-[13:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[14:00:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
-[14:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[14:01:10] [Async Chat Thread - #159/INFO]: [Not Secure] <Szarka_> 49!!
-[14:01:24] [Async Chat Thread - #159/INFO]: [Not Secure] <Petranszki> Hogyan :sob:
-[14:01:29] [Async Chat Thread - #159/INFO]: [Not Secure] <Szarka_> fortune 2
-[14:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[14:02:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
-[14:03:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[14:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[14:05:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[14:05:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:05:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:05:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
-[14:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[14:06:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[14:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
-[14:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[14:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
-[14:09:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
-[14:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[14:10:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:10:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[14:10:35] [Async Chat Thread - #161/INFO]: [Not Secure] <Szarka_> találtam amethystet
-[14:10:39] [Async Chat Thread - #161/INFO]: [Not Secure] <Petranszki> Uuu
-[14:10:44] [Async Chat Thread - #161/INFO]: [Not Secure] <Szarka_> calcite izét is
-[14:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[14:10:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
-[14:11:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
-[14:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
-[14:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[14:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
-[14:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
-[14:13:16] [Async Chat Thread - #163/INFO]: [Not Secure] <Petranszki> Az is jó
-[14:13:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[14:13:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
-[14:14:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[14:14:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[14:14:50] [Async Chat Thread - #165/INFO]: [Not Secure] <Szarka_> be van kapcsolva a felirat es egyszercsak kiirja a jatek h "sculk sensor starts ticking"
-[14:14:54] [Async Chat Thread - #165/INFO]: [Not Secure] <Szarka_> van valahol egy warden
-[14:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
-[14:15:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:15:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:15:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
-[14:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[14:16:19] [Server thread/INFO]: Szarka_ has made the advancement [Sneak 100]
-[14:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[14:16:30] [Async Chat Thread - #167/INFO]: [Not Secure] <Petranszki> Oh-o
-[14:16:47] [Async Chat Thread - #168/INFO]: [Not Secure] <Szarka_> -165 60
-[14:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[14:16:52] [Async Chat Thread - #168/INFO]: [Not Secure] <Szarka_> -165 y 60
-[14:17:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[14:17:29] [User Authenticator #35/INFO]: UUID of player Apreal is 240a440a-af2b-39c4-9168-a81b7c25a996
-[14:17:30] [Server thread/INFO]: Apreal joined the game
-[14:17:30] [Server thread/INFO]: Apreal[/100.68.35.137:58423] logged in with entity id 7604703 at ([world]235.68977751805966, 123.0, -36.55247443502324)
-[14:17:34] [Async Chat Thread - #168/INFO]: [Not Secure] <Apreal> nem mukodik
-[14:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[14:17:35] [Async Chat Thread - #168/INFO]: [Not Secure] <Apreal> :(
-[14:17:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3583ms or 71 ticks behind
-[14:18:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3853ms or 77 ticks behind
-[14:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5045ms or 100 ticks behind
-[14:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4786ms or 95 ticks behind
-[14:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5525ms or 110 ticks behind
-[14:19:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5871ms or 117 ticks behind
-[14:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5933ms or 118 ticks behind
-[14:20:12] [Async Chat Thread - #169/INFO]: [Not Secure] <Petranszki> :(
-[14:20:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5988ms or 119 ticks behind
-[14:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5385ms or 107 ticks behind
-[14:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
-[14:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6059ms or 121 ticks behind
-[14:21:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:21:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6709ms or 134 ticks behind
-[14:21:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:21:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:21:44] [Async Chat Thread - #171/INFO]: [Not Secure] <Szarka_> meg tudtam valamit
-[14:21:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:21:54] [Async Chat Thread - #171/INFO]: [Not Secure] <Szarka_> a rókáknak ha adsz kardot a szájukban tartják
-[14:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6223ms or 124 ticks behind
-[14:22:00] [Async Chat Thread - #171/INFO]: [Not Secure] <Szarka_> és ha sebeznek HASZNÁLJÁK
-[14:22:10] [Async Chat Thread - #171/INFO]: [Not Secure] <Petranszki> Lmaooo
-[14:22:14] [Async Chat Thread - #171/INFO]: [Not Secure] <Petranszki> Az tök cuki
-[14:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5649ms or 112 ticks behind
-[14:22:22] [Async Chat Thread - #171/INFO]: [Not Secure] <Szarka_> ezért az egyik top warden ölés taktika az a rókákkal van
-[14:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4420ms or 88 ticks behind
-[14:22:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
-[14:23:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4602ms or 92 ticks behind
-[14:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4825ms or 96 ticks behind
-[14:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4633ms or 92 ticks behind
-[14:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
-[14:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4845ms or 96 ticks behind
-[14:24:48] [Async Chat Thread - #173/INFO]: [Not Secure] <Szarka_> y=-40 btw
-[14:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4481ms or 89 ticks behind
-[14:25:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:25:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
-[14:25:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:25:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4882ms or 97 ticks behind
-[14:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5272ms or 105 ticks behind
-[14:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5312ms or 106 ticks behind
-[14:26:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:26:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5371ms or 107 ticks behind
-[14:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5305ms or 106 ticks behind
-[14:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
-[14:27:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:27:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4432ms or 88 ticks behind
-[14:27:45] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> jajde szép lesz itt a lépcső
-[14:27:50] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> Köszi :3
-[14:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4654ms or 93 ticks behind
-[14:27:58] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> :>
-[14:28:01] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> Ilyen lesz fent is majd
-[14:28:14] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> gondoltam/reméltem :o
-[14:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4906ms or 98 ticks behind
-[14:28:23] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> :3
-[14:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
-[14:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4822ms or 96 ticks behind
-[14:29:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:29:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:29:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:29:12] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> Feketéből fehér :sunglasses:
-[14:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6780ms or 135 ticks behind
-[14:29:18] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> :oooo
-[14:29:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6639ms or 132 ticks behind
-[14:29:41] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> <insert racist joke here>
-[14:29:51] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> Just like Beyonce
-[14:29:55] [Async Chat Thread - #175/INFO]: [Not Secure] <Szarka_> nem!
-[14:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6310ms or 126 ticks behind
-[14:30:00] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> De!
-[14:30:08] [Async Chat Thread - #175/INFO]: [Not Secure] <Szarka_> nem!!!
-[14:30:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6097ms or 121 ticks behind
-[14:30:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:30:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:30:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:30:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5834ms or 116 ticks behind
-[14:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5307ms or 106 ticks behind
-[14:31:06] [Async Chat Thread - #175/INFO]: [Not Secure] <Szarka_> nem is tudtam az amethyst kristályok ilyen gyorsan visszanőnek
-[14:31:15] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> Azok visszanőnek?
-[14:31:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4688ms or 93 ticks behind
-[14:31:25] [Async Chat Thread - #175/INFO]: [Not Secure] <Szarka_> erősen úgy néz ki
-[14:31:27] [Async Chat Thread - #176/INFO]: [Not Secure] <Apreal> ye
-[14:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4964ms or 99 ticks behind
-[14:31:48] [Async Chat Thread - #176/INFO]: [Not Secure] <Szarka_> olyan strip mine rendszerem van egyébként
-[14:32:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4474ms or 89 ticks behind
-[14:32:01] [Async Chat Thread - #176/INFO]: [Not Secure] <Szarka_> egyre többször futok bele a saját alagútaimba
-[14:32:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:32:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4109ms or 82 ticks behind
-[14:32:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4370ms or 87 ticks behind
-[14:32:41] [Async Chat Thread - #176/INFO]: [Not Secure] <Petranszki> Annyira jól jönne a kvarc a lépcsőbe de nem akarom erre pazarolni
-[14:32:52] [Async Chat Thread - #175/INFO]: [Not Secure] <Szarka_> van egy csomó kvarcunk elvileg
-[14:32:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3998ms or 79 ticks behind
-[14:32:59] [Async Chat Thread - #175/INFO]: [Not Secure] <Szarka_> én a múltkor szedtem
-[14:33:00] [Async Chat Thread - #175/INFO]: [Not Secure] <Szarka_> (sokat)
-[14:33:01] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> nyugodtan
-[14:33:07] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> bármikor lemehetünk a netherbe
-[14:33:08] [Async Chat Thread - #176/INFO]: [Not Secure] <Petranszki> Akkor oki!
-[14:33:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:33:17] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> szóval tőlem lophatod ami nálam van legalábbis
-[14:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4366ms or 87 ticks behind
-[14:33:29] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> Ott a nagy chunkodnál?
-[14:33:32] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> ye
-[14:33:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3437ms or 68 ticks behind
-[14:33:36] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> Megyek is
-[14:33:41] [Async Chat Thread - #175/INFO]: [Not Secure] <Apreal> a crafting table melletti chestben kéne lennie
-[14:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3472ms or 69 ticks behind
-[14:33:59] [Async Chat Thread - #175/INFO]: [Not Secure] <Petranszki> Csak kellett még 2 blokk a csiszolt diorit meg diorit mellé hogy kicsit érdekesebb legyen
-[14:34:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4832ms or 96 ticks behind
-[14:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4123ms or 82 ticks behind
-[14:34:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
-[14:35:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3122ms or 62 ticks behind
-[14:35:11] [Async Chat Thread - #177/INFO]: [Not Secure] <Petranszki> Thank you
-[14:35:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
-[14:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
-[14:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4196ms or 83 ticks behind
-[14:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
-[14:36:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:36:40] [Server thread/WARN]: Szarka_ moved too quickly! 0.1352830513556995,-7.2305273689129645,6.99296554241031
-[14:36:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4899ms or 97 ticks behind
-[14:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4557ms or 91 ticks behind
-[14:37:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4178ms or 83 ticks behind
-[14:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4220ms or 84 ticks behind
-[14:38:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4363ms or 87 ticks behind
-[14:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4513ms or 90 ticks behind
-[14:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5589ms or 111 ticks behind
-[14:39:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5051ms or 101 ticks behind
-[14:39:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:39:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4366ms or 87 ticks behind
-[14:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4942ms or 98 ticks behind
-[14:40:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5088ms or 101 ticks behind
-[14:40:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:40:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4513ms or 90 ticks behind
-[14:40:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4563ms or 91 ticks behind
-[14:41:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4540ms or 90 ticks behind
-[14:41:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
-[14:41:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:41:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4247ms or 84 ticks behind
-[14:41:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4303ms or 86 ticks behind
-[14:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3724ms or 74 ticks behind
-[14:42:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4329ms or 86 ticks behind
-[14:42:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4247ms or 84 ticks behind
-[14:43:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4408ms or 88 ticks behind
-[14:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4403ms or 88 ticks behind
-[14:43:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4266ms or 85 ticks behind
-[14:44:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4220ms or 84 ticks behind
-[14:44:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4833ms or 96 ticks behind
-[14:44:46] [Async Chat Thread - #179/INFO]: [Not Secure] <Petranszki> ÚRISTEN DE MEGIJEDTEM
-[14:44:46] [Async Chat Thread - #179/INFO]: [Not Secure] <Szarka_> ajandek
-[14:44:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3923ms or 78 ticks behind
-[14:45:01] [Async Chat Thread - #180/INFO]: [Not Secure] <Apreal> sirok
-[14:45:05] [Async Chat Thread - #180/INFO]: [Not Secure] <Apreal> de egyszerre mondtatok
-[14:45:06] [Async Chat Thread - #180/INFO]: [Not Secure] <Szarka_> waaah
-[14:45:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4535ms or 90 ticks behind
-[14:45:12] [Async Chat Thread - #180/INFO]: [Not Secure] <Szarka_> nuú
-[14:45:13] [Async Chat Thread - #180/INFO]: [Not Secure] <Szarka_> mi
-[14:45:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4836ms or 96 ticks behind
-[14:45:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4627ms or 92 ticks behind
-[14:46:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4205ms or 84 ticks behind
-[14:46:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4027ms or 80 ticks behind
-[14:46:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4118ms or 82 ticks behind
-[14:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3954ms or 79 ticks behind
-[14:47:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4346ms or 86 ticks behind
-[14:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3578ms or 71 ticks behind
-[14:48:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
-[14:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4042ms or 80 ticks behind
-[14:48:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3957ms or 79 ticks behind
-[14:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4214ms or 84 ticks behind
-[14:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4677ms or 93 ticks behind
-[14:49:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4373ms or 87 ticks behind
-[14:49:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4668ms or 93 ticks behind
-[14:50:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4805ms or 96 ticks behind
-[14:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4636ms or 92 ticks behind
-[14:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4600ms or 92 ticks behind
-[14:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4255ms or 85 ticks behind
-[14:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5698ms or 113 ticks behind
-[14:51:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5683ms or 113 ticks behind
-[14:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5812ms or 116 ticks behind
-[14:52:27] [Async Chat Thread - #181/INFO]: [Not Secure] <Petranszki> Kész az első lépcső:D
-[14:52:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7133ms or 142 ticks behind
-[14:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5388ms or 107 ticks behind
-[14:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4926ms or 98 ticks behind
-[14:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4455ms or 89 ticks behind
-[14:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4641ms or 92 ticks behind
-[14:54:03] [Async Chat Thread - #183/INFO]: [Not Secure] <Petranszki> Nézd meg Pamda
-[14:54:07] [Async Chat Thread - #183/INFO]: [Not Secure] <Apreal> azonnal
-[14:54:10] [Async Chat Thread - #183/INFO]: [Not Secure] <Apreal> !!!
-[14:54:14] [Async Chat Thread - #184/INFO]: [Not Secure] <Apreal> csak ezt még befejezem
-[14:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4773ms or 95 ticks behind
-[14:54:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4194ms or 83 ticks behind
-[14:54:40] [Async Chat Thread - #184/INFO]: [Not Secure] <Petranszki> Igenis!
-[14:54:44] [Async Chat Thread - #184/INFO]: [Not Secure] <Petranszki> Szerintem cute
-[14:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
-[14:55:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4179ms or 83 ticks behind
-[14:55:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3820ms or 76 ticks behind
-[14:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3625ms or 72 ticks behind
-[14:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3371ms or 67 ticks behind
-[14:56:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3608ms or 72 ticks behind
-[14:56:43] [Async Chat Thread - #185/INFO]: [Not Secure] <Apreal> van pók farm
-[14:56:44] [Async Chat Thread - #185/INFO]: [Not Secure] <Apreal> !!
-[14:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3991ms or 79 ticks behind
-[14:57:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3941ms or 78 ticks behind
-[14:57:10] [Async Chat Thread - #185/INFO]: [Not Secure] <Petranszki> Daaamn
-[14:57:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
-[14:57:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3024ms or 60 ticks behind
-[14:58:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4202ms or 84 ticks behind
-[14:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3539ms or 70 ticks behind
-[14:58:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4241ms or 84 ticks behind
-[14:58:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:58:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:58:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:58:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:58:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:58:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:59:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[14:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4423ms or 88 ticks behind
-[14:59:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3513ms or 70 ticks behind
-[14:59:26] [Async Chat Thread - #187/INFO]: [Not Secure] <Apreal> actual stairway to heaven
-[14:59:27] [Async Chat Thread - #187/INFO]: [Not Secure] <Apreal> damn
-[14:59:32] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Thank you
-[14:59:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
-[14:59:44] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> A következő lépcső pedig a Highway to Hell
-[14:59:44] [Async Chat Thread - #188/INFO]: [Not Secure] <Apreal> naon szép :>>
-[14:59:49] [Async Chat Thread - #188/INFO]: [Not Secure] <Petranszki> Köszi!!!
-[14:59:52] [Async Chat Thread - #188/INFO]: [Not Secure] <Apreal> hellye
-[14:59:54] [Async Chat Thread - #188/INFO]: [Not Secure] <Petranszki> Szeretek gradientezni
-[14:59:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
-[15:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3240ms or 64 ticks behind
-[15:00:21] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Tehát a másik lépcső ugyanez lesz csak fordítva
-[15:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[15:00:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
-[15:00:54] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Már csak 2 óra és kész van :agony:
-[15:01:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[15:01:26] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Veletek mizujs?
-[15:01:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
-[15:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
-[15:01:45] [Async Chat Thread - #187/INFO]: [Not Secure] <Szarka_> enchantolgatni fogok
-[15:01:51] [Async Chat Thread - #188/INFO]: [Not Secure] <Szarka_> farmolok xpt állatokkal
-[15:02:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2749ms or 54 ticks behind
-[15:02:05] [Async Chat Thread - #188/INFO]: [Not Secure] <Szarka_> sok van ugyhogy sokat ad a tenyesztesuk + leolesuk
-[15:02:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:02:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:02:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:02:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:02:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:02:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:02:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
-[15:02:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:02:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:02:30] [Async Chat Thread - #188/INFO]: [Not Secure] <Petranszki> Ennyike
-[15:02:37] [Async Chat Thread - #188/INFO]: [Not Secure] <Petranszki> Én is szeretnék valami jó csákányt
-[15:02:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
-[15:02:43] [Async Chat Thread - #188/INFO]: [Not Secure] <Petranszki> Vagy inkább baltát
-[15:02:45] [Async Chat Thread - #188/INFO]: [Not Secure] <Apreal> a pók farm az egyszerre xp farm is
-[15:02:54] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Hell ye!!!
-[15:02:54] [Async Chat Thread - #187/INFO]: [Not Secure] <Apreal> igy btw
-[15:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[15:03:03] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Gyémántot lophatok?
-[15:03:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:03:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
-[15:03:17] [Async Chat Thread - #187/INFO]: [Not Secure] <Apreal> tőlem nyugodtan
-[15:03:18] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Akarok farmos baltát
-[15:03:18] [Async Chat Thread - #187/INFO]: [Not Secure] <Apreal> sőt
-[15:03:26] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Meg farmos csákányt
-[15:03:34] [Async Chat Thread - #187/INFO]: [Not Secure] <Szarka_> lopj
-[15:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4054ms or 81 ticks behind
-[15:03:36] [Async Chat Thread - #187/INFO]: [Not Secure] <Apreal> még le is ugorhatsz az Abyss:tm:-be mert vannak még a falakban gyémántok
-[15:03:46] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Építéshez a vasat fogyasztom tho, mert ez a lépcső elvett 3 vascsákányt
-[15:03:51] [Async Chat Thread - #187/INFO]: [Not Secure] <Szarka_> mostmár nincsenek ott gyémántok
-[15:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
-[15:04:00] [Async Chat Thread - #187/INFO]: [Not Secure] <Szarka_> megettem
-[15:04:01] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Úristen MENNYI
-[15:04:06] [Async Chat Thread - #188/INFO]: [Not Secure] <Szarka_> sok vas
-[15:04:06] [Server thread/INFO]: Petranszki has made the advancement [Diamonds!]
-[15:04:09] [Async Chat Thread - #188/INFO]: [Not Secure] <Apreal> :despair:
-[15:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3180ms or 63 ticks behind
-[15:04:15] [Async Chat Thread - #187/INFO]: [Not Secure] <Szarka_> ja gyemant
-[15:04:16] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> :agony:
-[15:04:17] [Async Chat Thread - #187/INFO]: [Not Secure] <Szarka_> szedtem parat
-[15:04:29] [Async Chat Thread - #187/INFO]: [Not Secure] <Petranszki> Érzékelem
-[15:04:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3626ms or 72 ticks behind
-[15:04:43] [Async Chat Thread - #187/INFO]: [Not Secure] <Szarka_> hmmm
-[15:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3874ms or 77 ticks behind
-[15:04:58] [Async Chat Thread - #188/INFO]: [Not Secure] <Petranszki> Elvezetsz a pókfarmhoz? :*
-[15:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
-[15:05:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:05:11] [Async Chat Thread - #187/INFO]: [Not Secure] <Apreal> mhm
-[15:05:12] [Async Chat Thread - #187/INFO]: [Not Secure] <Szarka_> kéne találni bastiont netherben
-[15:05:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:05:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:05:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
-[15:05:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:05:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3758ms or 75 ticks behind
-[15:05:45] [Async Chat Thread - #187/INFO]: [Not Secure] <Apreal> asszem 14 y -3 a chunk btw
-[15:05:49] [Async Chat Thread - #187/INFO]: [Not Secure] <Apreal> és ott egy lejárat
-[15:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4371ms or 87 ticks behind
-[15:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3126ms or 62 ticks behind
-[15:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
-[15:06:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
-[15:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
-[15:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
-[15:07:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
-[15:08:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
-[15:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
-[15:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3997ms or 79 ticks behind
-[15:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4190ms or 83 ticks behind
-[15:09:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4391ms or 87 ticks behind
-[15:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
-[15:10:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
-[15:10:03] [Async Chat Thread - #189/INFO]: [Not Secure] <Petranszki> Buta vagyok, engem a 14 y -3 bevisz a barikhoz
-[15:10:11] [Async Chat Thread - #189/INFO]: [Not Secure] <Apreal> chunk
-[15:10:13] [Async Chat Thread - #189/INFO]: [Not Secure] <Apreal> nem block
-[15:10:19] [Async Chat Thread - #189/INFO]: [Not Secure] <Petranszki> Az mit jelent :sob:
-[15:10:21] [Async Chat Thread - #189/INFO]: [Not Secure] <Apreal> eggyel alatta
-[15:10:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4547ms or 90 ticks behind
-[15:10:23] [Async Chat Thread - #190/INFO]: [Not Secure] <Apreal> :sob:
-[15:10:29] [Async Chat Thread - #191/INFO]: [Not Secure] <Petranszki> Jaa :3
-[15:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4750ms or 95 ticks behind
-[15:10:45] [Async Chat Thread - #191/INFO]: [Not Secure] <Apreal> de a block az 239 y -48
-[15:10:49] [Async Chat Thread - #191/INFO]: [Not Secure] <Petranszki> Köszi
-[15:10:53] [Async Chat Thread - #191/INFO]: [Not Secure] <Apreal> mostmár megtudom mondani
-[15:10:55] [Async Chat Thread - #189/INFO]: [Not Secure] <Apreal> mert itt vagyok
-[15:10:58] [Async Chat Thread - #189/INFO]: [Not Secure] <Apreal> :d
-[15:11:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
-[15:11:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3743ms or 74 ticks behind
-[15:11:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3856ms or 77 ticks behind
-[15:11:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:11:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4569ms or 91 ticks behind
-[15:12:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3956ms or 79 ticks behind
-[15:12:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
-[15:12:41] [Async Chat Thread - #192/INFO]: [Not Secure] <Petranszki> Azta picsa
-[15:12:46] [Async Chat Thread - #192/INFO]: [Not Secure] <Apreal> müködik
-[15:12:46] [Async Chat Thread - #192/INFO]: [Not Secure] <Apreal> :d
-[15:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3550ms or 71 ticks behind
-[15:13:05] [Async Chat Thread - #192/INFO]: [Not Secure] <Apreal> adtam egy kardot
-[15:13:09] [Async Chat Thread - #192/INFO]: [Not Secure] <Apreal> azzal gyorsabban megy
-[15:13:10] [Async Chat Thread - #193/INFO]: [Not Secure] <Petranszki> Köszi:D
-[15:13:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4053ms or 81 ticks behind
-[15:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
-[15:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3654ms or 73 ticks behind
-[15:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
-[15:14:15] [Async Chat Thread - #194/INFO]: [Not Secure] <Apreal> ilyen kis egyszerű
-[15:14:20] [Async Chat Thread - #194/INFO]: [Not Secure] <Petranszki> De fajin
-[15:14:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
-[15:14:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4431ms or 88 ticks behind
-[15:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
-[15:15:18] [Async Chat Thread - #194/INFO]: [Not Secure] <Petranszki> Tetszik a design
-[15:15:23] [Async Chat Thread - #194/INFO]: [Not Secure] <Apreal> nekem nem
-[15:15:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
-[15:15:26] [Async Chat Thread - #194/INFO]: [Not Secure] <Apreal> gyere vissza
-[15:15:27] [Async Chat Thread - #194/INFO]: [Not Secure] <Petranszki> D:
-[15:15:30] [Async Chat Thread - #194/INFO]: [Not Secure] <Apreal> ~3 óra mulva
-[15:15:34] [Async Chat Thread - #194/INFO]: [Not Secure] <Petranszki> Igenis
-[15:15:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
-[15:15:48] [Async Chat Thread - #194/INFO]: [Not Secure] <Petranszki> Lépcső se lesz hamarabb kész ha az megnyugtat
-[15:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
-[15:16:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:16:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:16:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3597ms or 71 ticks behind
-[15:16:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3503ms or 70 ticks behind
-[15:16:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3492ms or 69 ticks behind
-[15:17:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3320ms or 66 ticks behind
-[15:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4123ms or 82 ticks behind
-[15:17:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4411ms or 88 ticks behind
-[15:17:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:17:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:18:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:18:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:18:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:18:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:18:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3606ms or 72 ticks behind
-[15:18:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:18:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3647ms or 72 ticks behind
-[15:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
-[15:19:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[15:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
-[15:19:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:19:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:19:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:19:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4377ms or 87 ticks behind
-[15:19:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5819ms or 116 ticks behind
-[15:20:15] [Server thread/INFO]: Petranszki has made the advancement [Enchanter]
-[15:20:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5192ms or 103 ticks behind
-[15:20:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4937ms or 98 ticks behind
-[15:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4032ms or 80 ticks behind
-[15:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4158ms or 83 ticks behind
-[15:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4478ms or 89 ticks behind
-[15:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3808ms or 76 ticks behind
-[15:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4411ms or 88 ticks behind
-[15:22:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:22:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:22:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:22:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4429ms or 88 ticks behind
-[15:22:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:22:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:23:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5615ms or 112 ticks behind
-[15:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4605ms or 92 ticks behind
-[15:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4599ms or 91 ticks behind
-[15:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5275ms or 105 ticks behind
-[15:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4072ms or 81 ticks behind
-[15:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4367ms or 87 ticks behind
-[15:24:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4762ms or 95 ticks behind
-[15:25:16] [Server thread/INFO]: Szarka_ has made the advancement [Cover Me with Diamonds]
-[15:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4046ms or 80 ticks behind
-[15:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4378ms or 87 ticks behind
-[15:25:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:25:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:25:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:25:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4410ms or 88 ticks behind
-[15:25:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:25:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:25:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:26:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
-[15:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4616ms or 92 ticks behind
-[15:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
-[15:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4920ms or 98 ticks behind
-[15:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4492ms or 89 ticks behind
-[15:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4747ms or 94 ticks behind
-[15:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4503ms or 90 ticks behind
-[15:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4197ms or 83 ticks behind
-[15:28:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
-[15:28:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4188ms or 83 ticks behind
-[15:29:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5479ms or 109 ticks behind
-[15:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4862ms or 97 ticks behind
-[15:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4543ms or 90 ticks behind
-[15:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4711ms or 94 ticks behind
-[15:30:23] [Async Chat Thread - #196/INFO]: [Not Secure] <Petranszki> Na gays, én megyek most, majd este jövök vissza, olyan 9-10 fele, és befejezem a lépcsőt
-[15:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4132ms or 82 ticks behind
-[15:30:30] [Async Chat Thread - #196/INFO]: [Not Secure] <Apreal> cyaaa
-[15:30:30] [Async Chat Thread - #196/INFO]: [Not Secure] <Szarka_> oksiii
-[15:30:36] [Async Chat Thread - #196/INFO]: [Not Secure] <Petranszki> Addig haii!
-[15:30:46] [Server thread/INFO]: Petranszki lost connection: Disconnected
-[15:30:46] [Server thread/INFO]: Petranszki left the game
-[15:30:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4128ms or 82 ticks behind
-[15:31:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
-[15:31:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3582ms or 71 ticks behind
-[15:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3135ms or 62 ticks behind
-[15:32:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2618ms or 52 ticks behind
-[15:32:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
-[15:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
-[15:33:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[15:33:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[15:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[15:34:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
-[15:35:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14114ms or 282 ticks behind
-[15:35:10] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> én is megyek picit
-[15:35:14] [Async Chat Thread - #198/INFO]: [Not Secure] <Apreal> okke
-[15:35:21] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> megyek sütni valami finomat
-[15:35:27] [Async Chat Thread - #198/INFO]: [Not Secure] <Apreal> joetvagyat!!
-[15:35:34] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> (valszeg piskotatekercset)
-[15:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20725ms or 414 ticks behind
-[15:35:49] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> kerdecs
-[15:35:55] [Async Chat Thread - #198/INFO]: [Not Secure] <Apreal> ye?
-[15:36:09] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> szodabikarbonat lehet helyettesiteni sutoporral?
-[15:36:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24407ms or 488 ticks behind
-[15:36:35] [Async Chat Thread - #198/INFO]: [Not Secure] <Apreal> ye
-[15:36:38] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> mind a ketto bikarbona csak a sutopor kicsit mas
-[15:37:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25383ms or 507 ticks behind
-[15:37:10] [Async Chat Thread - #198/INFO]: [Not Secure] <Apreal> igen csak kb 3x annyi sutoport kell hasznalni mint szodabikarbonat
-[15:37:14] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> bicarbonate
-[15:37:15] [Async Chat Thread - #198/INFO]: [Not Secure] <Apreal> de egyebkent igen
-[15:37:18] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> ah
-[15:37:31] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> mindig felek nincs itthon es veszek egy uj csomaggal az a jo
-[15:37:40] [Async Chat Thread - #198/INFO]: [Not Secure] <Apreal> ye
-[15:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25261ms or 505 ticks behind
-[15:37:51] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> nade helo meek
-[15:37:56] [Async Chat Thread - #198/INFO]: [Not Secure] <Apreal> heoo
-[15:37:59] [Async Chat Thread - #198/INFO]: [Not Secure] <Szarka_> byebye
-[15:38:01] [Server thread/INFO]: Szarka_ lost connection: Disconnected
-[15:38:01] [Server thread/INFO]: Szarka_ left the game
-[15:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19088ms or 381 ticks behind
-[15:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11516ms or 230 ticks behind
-[15:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6570ms or 131 ticks behind
-[15:39:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7304ms or 146 ticks behind
-[15:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4468ms or 89 ticks behind
+[20:57:18] [ServerMain/ERROR]: [EntrypointUtil] Failed to open plugin jar plugins/lagfixer.jar
+java.lang.RuntimeException: Failed to open plugin jar plugins/lagfixer.jar
+	at io.papermc.paper.pluginremap.PluginRemapper.remap(PluginRemapper.java:339) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.pluginremap.PluginRemapper.remapPlugin(PluginRemapper.java:266) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.pluginremap.PluginRemapper.rewritePluginDirectory(PluginRemapper.java:204) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.prepareContext(DirectoryProviderSource.java:42) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.prepareContext(DirectoryProviderSource.java:17) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:14) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:109) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.Main.main(Main.java:122) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.craftbukkit.Main.main(Main.java:328) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+Caused by: java.util.zip.ZipException: zip END header not found
+	at jdk.zipfs@21.0.7/jdk.nio.zipfs.ZipFileSystem.findEND(Unknown Source) ~[jdk.zipfs:?]
+	at jdk.zipfs@21.0.7/jdk.nio.zipfs.ZipFileSystem.initCEN(Unknown Source) ~[jdk.zipfs:?]
+	at jdk.zipfs@21.0.7/jdk.nio.zipfs.ZipFileSystem.<init>(Unknown Source) ~[jdk.zipfs:?]
+	at jdk.zipfs@21.0.7/jdk.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source) ~[jdk.zipfs:?]
+	at jdk.zipfs@21.0.7/jdk.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source) ~[jdk.zipfs:?]
+	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source) ~[?:?]
+	at java.base/java.nio.file.FileSystems.newFileSystem(Unknown Source) ~[?:?]
+	at io.papermc.paper.pluginremap.PluginRemapper.remap(PluginRemapper.java:290) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	... 10 more
+[20:57:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:57:26] [ServerMain/INFO]: Loaded 1175 recipes
+[20:57:26] [ServerMain/INFO]: Loaded 1300 advancements
+[20:57:27] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[20:57:27] [Server thread/INFO]: Loading properties
+[20:57:27] [Server thread/INFO]: This server is running Paper version 1.20.6-151-ver/1.20.6@a4f0f5c (2024-10-30T19:13:22Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[20:57:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:57:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:57:29] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[20:57:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 6 worker threads, and gen parallelism of 6 threads
+[20:57:29] [Server thread/INFO]: Default game type: SURVIVAL
+[20:57:29] [Server thread/INFO]: Generating keypair
+[20:57:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:57:29] [Server thread/INFO]: Using epoll channel type
+[20:57:29] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:57:29] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[20:57:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:57:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:57:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:57:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:57:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:57:29] [Server thread/INFO]: Preparing level "world"
+[20:57:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:57:31] [Server thread/INFO]: Time elapsed: 1348 ms
+[20:57:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:57:31] [Server thread/INFO]: Time elapsed: 93 ms
+[20:57:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:57:31] [Server thread/INFO]: Time elapsed: 67 ms
+[20:57:31] [Server thread/INFO]: Starting remote control listener
+[20:57:31] [Server thread/INFO]: Thread RCON Listener started
+[20:57:31] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[20:57:31] [Server thread/INFO]: Running delayed init tasks
+[20:57:31] [Server thread/INFO]: Done (4.808s)! For help, type "help"
+[20:57:31] [Server thread/INFO]: Timings Reset
+[20:57:38] [User Authenticator #0/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[20:57:39] [Server thread/INFO]: Szarka_ joined the game
+[20:57:39] [Server thread/INFO]: Szarka_[/100.82.150.250:60888] logged in with entity id 652 at ([world]-15.028572913709722, 97.5, 11.987500011920929)
+[20:57:42] [User Authenticator #0/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[20:57:42] [Server thread/INFO]: KellSo joined the game
+[20:57:42] [Server thread/INFO]: KellSo[/37.76.22.106:5899] logged in with entity id 1624 at ([world]20.846410422333726, 72.0, 60.026634315040354)
+[20:57:43] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 87851842-efde-4bb3-812c-9d0fb21bd393, mapped to Bat['Bat'/2056, uuid='87851842-efde-4bb3-812c-9d0fb21bd393', l='ServerLevel[world]', x=212.29, y=25.57, z=35.25, cpos=[13, 2], tl=2428, v=true], can't add Bat['Bat'/2114, uuid='87851842-efde-4bb3-812c-9d0fb21bd393', l='ServerLevel[world]', x=232.81, y=40.06, z=39.64, cpos=[14, 2], tl=835, v=false]
+[20:57:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[20:57:44] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:45] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:46] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 1efad19e-f2e0-462e-99fe-7d1e0a7bb931, mapped to Bat['Bat'/2675, uuid='1efad19e-f2e0-462e-99fe-7d1e0a7bb931', l='ServerLevel[world]', x=319.80, y=2.12, z=11.01, cpos=[19, 0], tl=1646, v=true], can't add Bat['Bat'/2871, uuid='1efad19e-f2e0-462e-99fe-7d1e0a7bb931', l='ServerLevel[world]', x=321.98, y=2.62, z=10.69, cpos=[20, 0], tl=1661, v=false]
+[20:57:47] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:48] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:49] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:49] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:50] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:51] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:52] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:56] [Server thread/INFO]: KellSo issued server command: /tps
+[20:57:57] [User Authenticator #0/INFO]: UUID of player Petranszki is a8d8eae2-d93c-3d93-8bd1-f8eff6a9a599
+[20:57:58] [Server thread/INFO]: Petranszki joined the game
+[20:57:58] [Server thread/INFO]: Petranszki[/46.139.112.85:60663] logged in with entity id 4757 at ([world]-42.84932777089431, 131.0, -31.81086545777775)
+[20:58:10] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: ccfe667c-6f95-42b7-aaaa-585d5fa6402d, mapped to Villager['Villager'/6280, uuid='ccfe667c-6f95-42b7-aaaa-585d5fa6402d', l='ServerLevel[world]', x=144.27, y=71.00, z=-523.22, cpos=[9, -33], tl=245066, v=true], can't add Villager['Villager'/6358, uuid='ccfe667c-6f95-42b7-aaaa-585d5fa6402d', l='ServerLevel[world]', x=143.07, y=66.00, z=-540.51, cpos=[8, -34], tl=246297, v=false]
+[20:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[20:58:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
+[20:59:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[20:59:06] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:08] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:09] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:10] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:11] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:12] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:12] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:13] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:14] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:15] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:18] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:19] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[20:59:29] [Server thread/INFO]: KellSo issued server command: /tps
+[20:59:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[20:59:45] [Server thread/INFO]: Petranszki issued server command: /tps
+[21:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[21:00:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[21:00:49] [Server thread/INFO]: Petranszki issued server command: /tps
+[21:00:58] [Server thread/INFO]: KellSo issued server command: /tps
+[21:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[21:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[21:01:57] [Server thread/INFO]: KellSo issued server command: /tps
+[21:01:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[21:02:19] [Server thread/INFO]: KellSo issued server command: /tps
+[21:02:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[21:02:20] [Server thread/INFO]: KellSo issued server command: /tps
+[21:02:22] [Server thread/INFO]: KellSo issued server command: /tps
+[21:02:24] [Server thread/INFO]: KellSo issued server command: /tps
+[21:02:39] [Server thread/INFO]: KellSo issued server command: /tps
+[21:02:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[21:02:41] [Server thread/INFO]: KellSo issued server command: /tps
+[21:02:42] [Server thread/INFO]: KellSo issued server command: /tps
+[21:02:58] [Server thread/INFO]: KellSo issued server command: /tps
+[21:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[21:03:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3155ms or 63 ticks behind
+[21:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3633ms or 72 ticks behind
+[21:03:47] [Server thread/INFO]: Petranszki issued server command: /tps
+[21:03:53] [Server thread/INFO]: KellSo issued server command: /tps
+[21:03:54] [Server thread/INFO]: KellSo issued server command: /tps
+[21:03:55] [Server thread/INFO]: KellSo issued server command: /tps
+[21:03:56] [Server thread/INFO]: KellSo issued server command: /tps
+[21:03:57] [Server thread/INFO]: KellSo issued server command: /tps
+[21:03:58] [Server thread/INFO]: KellSo issued server command: /tps
+[21:03:58] [Server thread/INFO]: KellSo issued server command: /tps
+[21:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3513ms or 70 ticks behind
+[21:03:59] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:00] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:01] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:02] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:02] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:03] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:04] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:04] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:05] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:06] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:07] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:07] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:08] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:09] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:09] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:11] [Server thread/INFO]: Petranszki issued server command: /tps
+[21:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[21:04:18] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:35] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:36] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:37] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:38] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:38] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[21:04:55] [Server thread/INFO]: KellSo issued server command: /tps
+[21:04:58] [Server thread/INFO]: Petranszki issued server command: /tps
+[21:05:00] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[21:05:15] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:16] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:21] [Server thread/INFO]: Petranszki issued server command: /tps
+[21:05:21] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:25] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:29] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:33] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:36] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:52] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:53] [Server thread/INFO]: KellSo issued server command: /tps
+[21:05:55] [Server thread/INFO]: KellSo issued server command: /tps
+[21:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[21:07:03] [Server thread/INFO]: KellSo issued server command: /tps
+[21:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[21:07:32] [Server thread/INFO]: Petranszki issued server command: /tps
+[21:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[21:08:44] [Server thread/INFO]: KellSo issued server command: /tps
+[21:10:35] [Server thread/INFO]: KellSo issued server command: /tps
+[21:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[21:11:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[21:12:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:12:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:12:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:12:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:12:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[21:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[21:13:48] [Server thread/INFO]: KellSo issued server command: /tps
+[21:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[21:14:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[21:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[21:15:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[21:16:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[21:17:31] [Server thread/INFO]: Petranszki issued server command: /tps
+[21:18:10] [Server thread/INFO]: KellSo issued server command: /tps
+[21:18:13] [Server thread/INFO]: Petranszki issued server command: /tps
+[21:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[21:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[21:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
