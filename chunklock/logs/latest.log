@@ -239,3 +239,26 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [21:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
 [21:38:02] [Server thread/INFO]: KellSo issued server command: /tps
 [21:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[21:41:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:42:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:42:10] [Server thread/INFO]: KellSo issued server command: /tps
+[21:42:22] [Server thread/INFO]: KellSo lost connection: Disconnected
+[21:42:22] [Server thread/INFO]: KellSo left the game
+[21:42:43] [Server thread/INFO]: Petranszki lost connection: Disconnected
+[21:42:43] [Server thread/INFO]: Petranszki left the game
+[21:45:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:45:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:50:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:50:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:52:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:52:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[21:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[21:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[21:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3559ms or 71 ticks behind
+[21:55:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[21:55:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[21:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[21:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2900ms or 58 ticks behind
+[21:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[21:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3808ms or 76 ticks behind
+[21:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
