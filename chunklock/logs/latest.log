@@ -48,3 +48,24 @@
 [11:59:22] [Server thread/INFO]: Szarka_[/100.82.159.228:53382] logged in with entity id 7108351 at ([world]96.5793776924104, 62.9375, -14.139409450608216)
 [12:14:29] [Server thread/INFO]: Szarka_ lost connection: Disconnected
 [12:14:29] [Server thread/INFO]: Szarka_ left the game
+[12:20:08] [User Authenticator #30/INFO]: UUID of player Szarka_ is 52e7b62c-51ca-313c-b400-adba68e7a4fb
+[12:20:08] [Server thread/INFO]: Szarka_ joined the game
+[12:20:08] [Server thread/INFO]: Szarka_[/100.82.159.228:54463] logged in with entity id 7148413 at ([world]81.50520016389315, 62.9375, -3.8729448206888075)
+[12:26:35] [User Authenticator #31/INFO]: UUID of player ItsJustYuriii is 1f5b918a-59b5-3fa9-9850-4e48ecbdc780
+[12:26:36] [Server thread/INFO]: ItsJustYuriii joined the game
+[12:26:36] [Server thread/INFO]: ItsJustYuriii[/46.139.205.235:58025] logged in with entity id 7166490 at ([world]-51.53933165287979, 131.0, 1.8319993148727554)
+[12:27:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[12:29:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[12:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[12:29:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[12:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[12:35:20] [Server thread/INFO]: Szarka_ has made the advancement [The Parrots and the Bats]
+[12:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[12:35:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:35:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[12:36:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[12:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
