@@ -1,3 +1,10 @@
 [07:06:48] [User Authenticator #3/INFO]: UUID of player Apreal is 240a440a-af2b-39c4-9168-a81b7c25a996
 [07:06:49] [Server thread/INFO]: Apreal joined the game
 [07:06:49] [Server thread/INFO]: Apreal[/100.68.35.137:31061] logged in with entity id 435082 at ([world]241.09521712825745, 88.0, -48.35542434155126)
+[07:30:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[07:36:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[07:36:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[07:36:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[07:36:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[07:36:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[07:36:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
