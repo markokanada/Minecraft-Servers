@@ -1,0 +1,1508 @@
+{
+ "system-info": {
+  "bluemap-version": "5.7",
+  "git-hash": "8c746860e4a667029b923854fce3aedc853e585f",
+  "properties": {
+   "#identity": "java.util.HashMap@305ab509",
+   "entries": [
+    {
+     "key": "file.separator",
+     "value": "/"
+    },
+    {
+     "key": "java.runtime.name",
+     "value": "OpenJDK Runtime Environment"
+    },
+    {
+     "key": "user.dir",
+     "value": "/data"
+    },
+    {
+     "key": "java.runtime.version",
+     "value": "21.0.7+6-LTS"
+    },
+    {
+     "key": "java.vm.name",
+     "value": "OpenJDK 64-Bit Server VM"
+    },
+    {
+     "key": "os.name",
+     "value": "Linux"
+    },
+    {
+     "key": "sun.io.unicode.encoding",
+     "value": "UnicodeLittle"
+    },
+    {
+     "key": "java.vm.vendor",
+     "value": "Eclipse Adoptium"
+    },
+    {
+     "key": "java.class.version",
+     "value": "65.0"
+    },
+    {
+     "key": "java.home",
+     "value": "/opt/java/openjdk"
+    },
+    {
+     "key": "os.version",
+     "value": "6.1.0-0.deb11.21-amd64"
+    }
+   ]
+  },
+  "cores": 24,
+  "max-memory": 10737418240,
+  "total-memory": 2533359616,
+  "free-memory": 700342760,
+  "timestamp": 1747576994749,
+  "time": "2025-05-18T14:03:14.749800568"
+ },
+ "threads": [
+  {
+   "#identity": "java.lang.Thread@775e6a5e",
+   "#toString": "Thread[#166,Async Tab Complete Thread - #3,5,main]",
+   "name": "Async Tab Complete Thread - #3",
+   "state": "WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 166,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@5ba444a4",
+   "#toString": "Thread[#256,Craft Scheduler Thread - 27,5,main]",
+   "name": "Craft Scheduler Thread - 27",
+   "state": "TIMED_WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 256,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedTransferQueue$DualNode.await(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.xfer(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.poll(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@70e429e6",
+   "#toString": "Thread[#92,Craft Async Scheduler Management Thread,5,main]",
+   "name": "Craft Async Scheduler Management Thread",
+   "state": "WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 92,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@7deee26d",
+   "#toString": "Thread[#220,bStats-Metrics,8,main]",
+   "name": "bStats-Metrics",
+   "state": "TIMED_WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 220,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.util.ServerWorkerThread@3fe024e4",
+   "#toString": "Thread[#68,Worker-Main-5,4,main]",
+   "name": "Worker-Main-5",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 68,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.util.TimerThread@55a5c120",
+   "#toString": "Thread[#227,Timer-1,8,main]",
+   "name": "Timer-1",
+   "state": "TIMED_WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 227,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/java.lang.Object.wait0(Native Method)",
+    "java.base/java.lang.Object.wait(Unknown Source)",
+    "java.base/java.util.TimerThread.mainLoop(Unknown Source)",
+    "java.base/java.util.TimerThread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@36004d09",
+   "#toString": "Thread[#229,bStats-Metrics,8,main]",
+   "name": "bStats-Metrics",
+   "state": "TIMED_WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 229,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.util.ServerWorkerThread@7e2ec7a3",
+   "#toString": "Thread[#64,Worker-Main-1,4,main]",
+   "name": "Worker-Main-1",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 64,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadPool$PrioritisedThread@1c59bc8",
+   "#toString": "Thread[#82,Tuinity Chunk System Worker #2,3,main]",
+   "name": "Tuinity Chunk System Worker #2",
+   "state": "WAITING",
+   "priority": 3,
+   "alive": true,
+   "id": 82,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@775f3450",
+   "#toString": "Thread[#26,Notification Thread,9,system]",
+   "name": "Notification Thread",
+   "state": "RUNNABLE",
+   "priority": 9,
+   "alive": true,
+   "id": 26,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": []
+  },
+  {
+   "#identity": "java.lang.Thread@3d69977b",
+   "#toString": "Thread[#252,Craft Scheduler Thread - 25,5,main]",
+   "name": "Craft Scheduler Thread - 25",
+   "state": "TIMED_WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 252,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedTransferQueue$DualNode.await(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.xfer(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.poll(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.util.ServerWorkerThread@275b9f4c",
+   "#toString": "Thread[#70,Worker-Main-7,4,main]",
+   "name": "Worker-Main-7",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 70,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadPool$PrioritisedThread@c02d91a",
+   "#toString": "Thread[#83,Tuinity Chunk System Worker #3,3,main]",
+   "name": "Tuinity Chunk System Worker #3",
+   "state": "WAITING",
+   "priority": 3,
+   "alive": true,
+   "id": 83,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)"
+   ]
+  },
+  {
+   "#identity": "java.util.concurrent.ForkJoinWorkerThread@48c0615a",
+   "#toString": "Thread[#254,ForkJoinPool.commonPool-worker-1,8,main]",
+   "name": "ForkJoinPool.commonPool-worker-1",
+   "state": "TIMED_WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 254,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkUntil(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadPool$PrioritisedThread@71888793",
+   "#toString": "Thread[#84,Tuinity Chunk System Worker #4,3,main]",
+   "name": "Tuinity Chunk System Worker #4",
+   "state": "WAITING",
+   "priority": 3,
+   "alive": true,
+   "id": 84,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.util.ServerWorkerThread@6cfe2963",
+   "#toString": "Thread[#69,Worker-Main-6,4,main]",
+   "name": "Worker-Main-6",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 69,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.ref.Reference$ReferenceHandler@5c03ff1c",
+   "#toString": "Thread[#9,Reference Handler,10,system]",
+   "name": "Reference Handler",
+   "state": "RUNNABLE",
+   "priority": 10,
+   "alive": true,
+   "id": 9,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/java.lang.ref.Reference.waitForReferencePendingList(Native Method)",
+    "java.base/java.lang.ref.Reference.processPendingReferences(Unknown Source)",
+    "java.base/java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "net.minecraft.Util$7@14de7d7e",
+   "#toString": "Thread[#60,Timer hack thread,5,main]",
+   "name": "Timer hack thread",
+   "state": "TIMED_WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 60,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/java.lang.Thread.sleep0(Native Method)",
+    "java.base/java.lang.Thread.sleep(Unknown Source)",
+    "net.minecraft.Util$7.run(Util.java:747)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@124829ed",
+   "#toString": "Thread[#11,Signal Dispatcher,9,system]",
+   "name": "Signal Dispatcher",
+   "state": "RUNNABLE",
+   "priority": 9,
+   "alive": true,
+   "id": 11,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": []
+  },
+  {
+   "#identity": "java.lang.Thread@7a935836",
+   "#toString": "Thread[#221,ConfigSaver,8,main]",
+   "name": "ConfigSaver",
+   "state": "WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 221,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@287408dc",
+   "#toString": "Thread[#94,Netty Epoll Server IO #2,5,main]",
+   "name": "Netty Epoll Server IO #2",
+   "state": "RUNNABLE",
+   "priority": 5,
+   "alive": true,
+   "id": 94,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "io.netty.channel.epoll.Native.epollWait(Native Method)",
+    "io.netty.channel.epoll.Native.epollWait(Native.java:209)",
+    "io.netty.channel.epoll.Native.epollWait(Native.java:202)",
+    "io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)",
+    "io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)",
+    "io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)",
+    "io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@67194330",
+   "#toString": "Thread[#91,RCON Listener #1,8,main]",
+   "name": "RCON Listener #1",
+   "state": "RUNNABLE",
+   "priority": 8,
+   "alive": true,
+   "id": 91,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/sun.nio.ch.Net.poll(Native Method)",
+    "java.base/sun.nio.ch.NioSocketImpl.park(Unknown Source)",
+    "java.base/sun.nio.ch.NioSocketImpl.timedAccept(Unknown Source)",
+    "java.base/sun.nio.ch.NioSocketImpl.accept(Unknown Source)",
+    "java.base/java.net.ServerSocket.implAccept(Unknown Source)",
+    "java.base/java.net.ServerSocket.platformImplAccept(Unknown Source)",
+    "java.base/java.net.ServerSocket.implAccept(Unknown Source)",
+    "java.base/java.net.ServerSocket.implAccept(Unknown Source)",
+    "java.base/java.net.ServerSocket.accept(Unknown Source)",
+    "net.minecraft.server.rcon.thread.RconThread.run(RconThread.java:39)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@6c2bb504",
+   "#toString": "Thread[#61,Yggdrasil Key Fetcher,5,main]",
+   "name": "Yggdrasil Key Fetcher",
+   "state": "TIMED_WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 61,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadPool$PrioritisedThread@7e2dc29f",
+   "#toString": "Thread[#85,Tuinity Chunk System Worker #5,3,main]",
+   "name": "Tuinity Chunk System Worker #5",
+   "state": "WAITING",
+   "priority": 3,
+   "alive": true,
+   "id": 85,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.util.ServerWorkerThread@235cd164",
+   "#toString": "Thread[#65,Worker-Main-2,4,main]",
+   "name": "Worker-Main-2",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 65,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@4b2eca17",
+   "#toString": "Thread[#165,Async Tab Complete Thread - #2,5,main]",
+   "name": "Async Tab Complete Thread - #2",
+   "state": "WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 165,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@294e5e73",
+   "#toString": "Thread[#164,Async Tab Complete Thread - #1,5,main]",
+   "name": "Async Tab Complete Thread - #1",
+   "state": "WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 164,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@6ce36aa0",
+   "#toString": "Thread[#90,Netty Epoll Server IO #0,5,main]",
+   "name": "Netty Epoll Server IO #0",
+   "state": "RUNNABLE",
+   "priority": 5,
+   "alive": true,
+   "id": 90,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "io.netty.channel.epoll.Native.epollWait0(Native Method)",
+    "io.netty.channel.epoll.Native.epollWait(Native.java:182)",
+    "io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:312)",
+    "io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:376)",
+    "io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)",
+    "io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@5f35dff0",
+   "#toString": "Thread[#93,Netty Epoll Server IO #1,5,main]",
+   "name": "Netty Epoll Server IO #1",
+   "state": "RUNNABLE",
+   "priority": 5,
+   "alive": true,
+   "id": 93,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "io.netty.channel.epoll.Native.epollWait(Native Method)",
+    "io.netty.channel.epoll.Native.epollWait(Native.java:209)",
+    "io.netty.channel.epoll.Native.epollWait(Native.java:202)",
+    "io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)",
+    "io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)",
+    "io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)",
+    "io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "com.sun.jna.internal.Cleaner$CleanerThread@1ec66200",
+   "#toString": "Thread[#53,JNA Cleaner,5,main]",
+   "name": "JNA Cleaner",
+   "state": "TIMED_WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 53,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.lang.ref.ReferenceQueue.await(Unknown Source)",
+    "java.base/java.lang.ref.ReferenceQueue.remove0(Unknown Source)",
+    "java.base/java.lang.ref.ReferenceQueue.remove(Unknown Source)",
+    "com.sun.jna.internal.Cleaner$CleanerThread.run(Cleaner.java:154)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.util.TickThread@b6839ae",
+   "#toString": "Thread[#72,Server thread,8,main]",
+   "name": "Server thread",
+   "state": "WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 72,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.CompletableFuture$Signaller.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.CompletableFuture.waitingGet(Unknown Source)",
+    "java.base/java.util.concurrent.CompletableFuture.join(Unknown Source)",
+    "bluemap-5.7-paper.jar//de.bluecolored.bluemap.common.commands.CommandExecutor.execute(CommandExecutor.java:83)",
+    "bluemap-5.7-paper.jar//de.bluecolored.bluemap.common.commands.BrigadierExecutionHandler.handle(BrigadierExecutionHandler.java:47)",
+    "bluemap-5.7-paper.jar//de.bluecolored.bluecommands.brigadier.CommandCommand.run(CommandCommand.java:54)",
+    "com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)",
+    "net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31)",
+    "net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19)",
+    "net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8)",
+    "net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5)",
+    "net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103)",
+    "net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448)",
+    "net.minecraft.commands.Commands.performCommand(Commands.java:355)",
+    "net.minecraft.commands.Commands.performCommand(Commands.java:342)",
+    "net.minecraft.commands.Commands.performCommand(Commands.java:337)",
+    "net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2200)",
+    "net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2174)",
+    "net.minecraft.server.TickTask.run(TickTask.java:18)",
+    "net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)",
+    "net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)",
+    "net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511)",
+    "net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195)",
+    "net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)",
+    "net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488)",
+    "net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411)",
+    "net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114)",
+    "net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603)",
+    "net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231)",
+    "net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@54a36c65",
+   "#toString": "Thread[#100,DimensionDataIO - ./world - 0,5,main]",
+   "name": "DimensionDataIO - ./world - 0",
+   "state": "WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 100,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@2598e35e",
+   "#toString": "Thread[#101,DimensionDataIO - ./world_nether/DIM-1 - 0,5,main]",
+   "name": "DimensionDataIO - ./world_nether/DIM-1 - 0",
+   "state": "WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 101,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher@10b529f2",
+   "#toString": "Thread[#51,Log4j2-AsyncAppenderEventDispatcher-1-Async,5,main]",
+   "name": "Log4j2-AsyncAppenderEventDispatcher-1-Async",
+   "state": "WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 51,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.ArrayBlockingQueue.take(Unknown Source)",
+    "org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.dispatchAll(AsyncAppenderEventDispatcher.java:81)",
+    "org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.run(AsyncAppenderEventDispatcher.java:73)"
+   ]
+  },
+  {
+   "#identity": "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadPool$PrioritisedThread@48f6b031",
+   "#toString": "Thread[#80,Tuinity Chunk System Worker #0,3,main]",
+   "name": "Tuinity Chunk System Worker #0",
+   "state": "WAITING",
+   "priority": 3,
+   "alive": true,
+   "id": 80,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)"
+   ]
+  },
+  {
+   "#identity": "java.lang.ref.Finalizer$FinalizerThread@4b879ec8",
+   "#toString": "Thread[#10,Finalizer,8,system]",
+   "name": "Finalizer",
+   "state": "WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 10,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/java.lang.Object.wait0(Native Method)",
+    "java.base/java.lang.Object.wait(Unknown Source)",
+    "java.base/java.lang.Object.wait(Unknown Source)",
+    "java.base/java.lang.ref.NativeReferenceQueue.await(Unknown Source)",
+    "java.base/java.lang.ref.ReferenceQueue.remove0(Unknown Source)",
+    "java.base/java.lang.ref.NativeReferenceQueue.remove(Unknown Source)",
+    "java.base/java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "de.maxhenkel.voicechat.voice.server.Server$ProcessThread@7cf125a1",
+   "#toString": "Thread[#234,VoiceChatPacketProcessingThread,8,main]",
+   "name": "VoiceChatPacketProcessingThread",
+   "state": "TIMED_WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 234,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.poll(Unknown Source)",
+    "voicechat-bukkit-2.5.25.jar//de.maxhenkel.voicechat.voice.server.Server$ProcessThread.run(Server.java:194)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@44256f74",
+   "#toString": "Thread[#192,Folia Async Scheduler Thread #0,4,main]",
+   "name": "Folia Async Scheduler Thread #0",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 192,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedTransferQueue$DualNode.await(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.xfer(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "org.spigotmc.WatchdogThread@531b0d49",
+   "#toString": "Thread[#86,Paper Watchdog Thread,8,main]",
+   "name": "Paper Watchdog Thread",
+   "state": "TIMED_WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 86,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/java.lang.Thread.sleep0(Native Method)",
+    "java.base/java.lang.Thread.sleep(Unknown Source)",
+    "org.spigotmc.WatchdogThread.run(WatchdogThread.java:240)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@43617732",
+   "#toString": "Thread[#46,DestroyJavaVM,5,main]",
+   "name": "DestroyJavaVM",
+   "state": "RUNNABLE",
+   "priority": 5,
+   "alive": true,
+   "id": 46,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": []
+  },
+  {
+   "#identity": "java.lang.Thread@7cca769c",
+   "#toString": "Thread[#87,pool-8-thread-1,5,main]",
+   "name": "pool-8-thread-1",
+   "state": "TIMED_WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 87,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@7dedd73b",
+   "#toString": "Thread[#255,Craft Scheduler Thread - 26,5,main]",
+   "name": "Craft Scheduler Thread - 26",
+   "state": "TIMED_WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 255,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedTransferQueue$DualNode.await(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.xfer(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.poll(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.util.ServerWorkerThread@6d73b82b",
+   "#toString": "Thread[#67,Worker-Main-4,4,main]",
+   "name": "Worker-Main-4",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 67,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@6641c69a",
+   "#toString": "Thread[#163,Async Tab Complete Thread - #0,5,main]",
+   "name": "Async Tab Complete Thread - #0",
+   "state": "WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 163,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "com.github.devcyntrix.deathchest.audit.GsonAuditManager@3597614a",
+   "#toString": "Thread[#228,Thread-21,8,main]",
+   "name": "Thread-21",
+   "state": "WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 228,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "deathchest.jar//com.github.devcyntrix.deathchest.audit.GsonAuditManager.run(GsonAuditManager.java:40)"
+   ]
+  },
+  {
+   "#identity": "jdk.internal.misc.InnocuousThread@34e7deb8",
+   "#toString": "Thread[#27,Common-Cleaner,8,InnocuousThreadGroup]",
+   "name": "Common-Cleaner",
+   "state": "TIMED_WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 27,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.lang.ref.ReferenceQueue.await(Unknown Source)",
+    "java.base/java.lang.ref.ReferenceQueue.remove0(Unknown Source)",
+    "java.base/java.lang.ref.ReferenceQueue.remove(Unknown Source)",
+    "java.base/jdk.internal.ref.CleanerImpl.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)",
+    "java.base/jdk.internal.misc.InnocuousThread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@2a07c2e4",
+   "#toString": "Thread[#257,CompletableFutureDelayScheduler,8,main]",
+   "name": "CompletableFutureDelayScheduler",
+   "state": "TIMED_WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 257,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@935fb51",
+   "#toString": "Thread[#250,Craft Scheduler Thread - 23,5,main]",
+   "name": "Craft Scheduler Thread - 23",
+   "state": "TIMED_WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 250,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedTransferQueue$DualNode.await(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.xfer(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.poll(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.chunk.system.io.RegionFileIOThread@658d18e2",
+   "#toString": "Thread[#79,RegionFile I/O Thread #0,3,main]",
+   "name": "RegionFile I/O Thread #0",
+   "state": "WAITING",
+   "priority": 3,
+   "alive": true,
+   "id": 79,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@5fd2bd3d",
+   "#toString": "Thread[#225,Folia Async Scheduler Thread #1,4,main]",
+   "name": "Folia Async Scheduler Thread #1",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 225,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedTransferQueue$DualNode.await(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.xfer(Unknown Source)",
+    "java.base/java.util.concurrent.SynchronousQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "net.minecraft.server.dedicated.DedicatedServer$1@494bc439",
+   "#toString": "Thread[#74,Server console handler,8,main]",
+   "name": "Server console handler",
+   "state": "RUNNABLE",
+   "priority": 8,
+   "alive": true,
+   "id": 74,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/java.io.FileInputStream.read0(Native Method)",
+    "java.base/java.io.FileInputStream.read(Unknown Source)",
+    "org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)",
+    "org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)",
+    "org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)",
+    "org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)",
+    "org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)",
+    "org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)",
+    "org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)",
+    "org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)",
+    "org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)",
+    "org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)",
+    "org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)",
+    "net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)",
+    "net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)",
+    "net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:113)"
+   ]
+  },
+  {
+   "#identity": "java.util.concurrent.ForkJoinWorkerThread@79e66b95",
+   "#toString": "Thread[#218,BlueMap-FJP-0,8,main]",
+   "name": "BlueMap-FJP-0",
+   "state": "RUNNABLE",
+   "priority": 8,
+   "alive": true,
+   "id": 218,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/java.lang.Thread.getStackTrace(Unknown Source)",
+    "bluemap-5.7-paper.jar//de.bluecolored.bluemap.common.debug.StateDumper.dumpInstance(StateDumper.java:193)",
+    "bluemap-5.7-paper.jar//de.bluecolored.bluemap.common.debug.StateDumper.dump(StateDumper.java:66)",
+    "bluemap-5.7-paper.jar//de.bluecolored.bluemap.common.commands.commands.DebugCommand.dump(DebugCommand.java:73)",
+    "java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)",
+    "java.base/java.lang.reflect.Method.invoke(Unknown Source)",
+    "bluemap-5.7-paper.jar//de.bluecolored.bluecommands.MethodCommandExecutable.execute(MethodCommandExecutable.java:86)",
+    "bluemap-5.7-paper.jar//de.bluecolored.bluecommands.ParseMatch.execute(ParseMatch.java:45)",
+    "java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)",
+    "java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.util.ServerWorkerThread@113e6a46",
+   "#toString": "Thread[#66,Worker-Main-3,4,main]",
+   "name": "Worker-Main-3",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 66,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedThreadPool$PrioritisedThread@2fa401dc",
+   "#toString": "Thread[#81,Tuinity Chunk System Worker #1,3,main]",
+   "name": "Tuinity Chunk System Worker #1",
+   "state": "WAITING",
+   "priority": 3,
+   "alive": true,
+   "id": 81,
+   "deamon": false,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@5d9de21",
+   "#toString": "Thread[#95,Netty Epoll Server IO #3,5,main]",
+   "name": "Netty Epoll Server IO #3",
+   "state": "RUNNABLE",
+   "priority": 5,
+   "alive": true,
+   "id": 95,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "io.netty.channel.epoll.Native.epollWait(Native Method)",
+    "io.netty.channel.epoll.Native.epollWait(Native.java:209)",
+    "io.netty.channel.epoll.Native.epollWait(Native.java:202)",
+    "io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)",
+    "io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)",
+    "io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)",
+    "io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "de.maxhenkel.voicechat.voice.server.Server@7a657de",
+   "#toString": "Thread[#233,VoiceChatServerThread,8,main]",
+   "name": "VoiceChatServerThread",
+   "state": "RUNNABLE",
+   "priority": 8,
+   "alive": true,
+   "id": 233,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/sun.nio.ch.DatagramChannelImpl.receive0(Native Method)",
+    "java.base/sun.nio.ch.DatagramChannelImpl.receiveIntoNativeBuffer(Unknown Source)",
+    "java.base/sun.nio.ch.DatagramChannelImpl.receive(Unknown Source)",
+    "java.base/sun.nio.ch.DatagramChannelImpl.tryBlockingReceive(Unknown Source)",
+    "java.base/sun.nio.ch.DatagramChannelImpl.blockingReceive(Unknown Source)",
+    "java.base/sun.nio.ch.DatagramSocketAdaptor.receive(Unknown Source)",
+    "java.base/java.net.DatagramSocket.receive(Unknown Source)",
+    "voicechat-bukkit-2.5.25.jar//de.maxhenkel.voicechat.plugins.impl.VoicechatSocketBase.read(VoicechatSocketBase.java:13)",
+    "voicechat-bukkit-2.5.25.jar//de.maxhenkel.voicechat.plugins.impl.VoicechatSocketImpl.read(VoicechatSocketImpl.java:70)",
+    "voicechat-bukkit-2.5.25.jar//de.maxhenkel.voicechat.voice.server.Server.run(Server.java:88)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@1fc31739",
+   "#toString": "Thread[#188,ConfigSaver,8,main]",
+   "name": "ConfigSaver",
+   "state": "WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 188,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@2da23dd9",
+   "#toString": "Thread[#102,DimensionDataIO - ./world_the_end/DIM1 - 0,5,main]",
+   "name": "DimensionDataIO - ./world_the_end/DIM1 - 0",
+   "state": "WAITING",
+   "priority": 5,
+   "alive": true,
+   "id": 102,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "java.lang.Thread@15a2d6df",
+   "#toString": "Thread[#224,bStats-Metrics,8,main]",
+   "name": "bStats-Metrics",
+   "state": "TIMED_WAITING",
+   "priority": 8,
+   "alive": true,
+   "id": 224,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  },
+  {
+   "#identity": "io.papermc.paper.util.ServerWorkerThread@5cce5030",
+   "#toString": "Thread[#71,Worker-Main-8,4,main]",
+   "name": "Worker-Main-8",
+   "state": "WAITING",
+   "priority": 4,
+   "alive": true,
+   "id": 71,
+   "deamon": true,
+   "interrupted": false,
+   "stacktrace": [
+    "java.base/jdk.internal.misc.Unsafe.park(Native Method)",
+    "java.base/java.util.concurrent.locks.LockSupport.park(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)",
+    "java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)",
+    "java.base/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)",
+    "java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)",
+    "java.base/java.lang.Thread.run(Unknown Source)"
+   ]
+  }
+ ],
+ "dump": {
+  "de.bluecolored.bluemap.common.plugin.Plugin": {
+   "#identity": "de.bluecolored.bluemap.common.plugin.Plugin@16b662a1",
+   "loadingLock": {
+    "#identity": "de.bluecolored.bluemap.common.InterruptableReentrantLock@6e9ef0fe",
+    "#toString": "de.bluecolored.bluemap.common.InterruptableReentrantLock@6e9ef0fe[Unlocked]"
+   },
+   "implementationType": "paper",
+   "serverInterface": {
+    "#identity": "de.bluecolored.bluemap.bukkit.BukkitPlugin@7cbe7745",
+    "#toString": "BlueMap v5.7",
+    "pluginInstance": "<<de.bluecolored.bluemap.common.plugin.Plugin@16b662a1>>",
+    "eventForwarder": {
+     "#identity": "de.bluecolored.bluemap.bukkit.EventForwarder@681e9a3d",
+     "listeners": {
+      "#identity": "java.util.ArrayList@719e8ec0",
+      "entries": []
+     }
+    },
+    "onlinePlayerMap": {
+     "#identity": "java.util.concurrent.ConcurrentHashMap@6c11e11e",
+     "entries": [
+      {
+       "key": "2f743db9-a916-3145-9b53-c628e038f8ad",
+       "value": {
+        "#identity": "de.bluecolored.bluemap.bukkit.BukkitPlayer@631ab786",
+        "#toString": "de.bluecolored.bluemap.bukkit.BukkitPlayer@fd093279",
+        "uuid": "2f743db9-a916-3145-9b53-c628e038f8ad",
+        "name": {
+         "#identity": "de.bluecolored.bluemap.common.plugin.text.Text@7f4906aa",
+         "#toString": "Text:{\"text\":\"KellSo\"}",
+         "content": "KellSo",
+         "color": null,
+         "formats": {
+          "#identity": "java.util.HashSet@2bf6e1cd",
+          "entries": []
+         },
+         "hoverText": null,
+         "clickAction": null,
+         "clickActionValue": null,
+         "children": {
+          "#identity": "java.util.ArrayList@5008814",
+          "entries": []
+         }
+        },
+        "world": {
+         "#identity": "de.bluecolored.bluemap.bukkit.BukkitWorld@1964f9f0",
+         "#toString": "de.bluecolored.bluemap.bukkit.BukkitWorld@ce522f34",
+         "delegate": {
+          "#identity": "java.lang.ref.WeakReference@5d8d3cc2"
+         },
+         "worldFolder": "./world",
+         "dimension": "minecraft:overworld",
+         "public abstract java.nio.file.Path de.bluecolored.bluemap.common.serverinterface.ServerWorld.getWorldFolder()": "./world",
+         "public abstract de.bluecolored.bluemap.core.util.Key de.bluecolored.bluemap.common.serverinterface.ServerWorld.getDimension()": "minecraft:overworld"
+        },
+        "position": {
+         "#identity": "com.flowpowered.math.vector.Vector3d@4945ffa2",
+         "#toString": "(51.18812825982301, 63.0, 29.41088535848193)"
+        },
+        "rotation": {
+         "#identity": "com.flowpowered.math.vector.Vector3d@5832ad2e",
+         "#toString": "(8.100018501281738, -152.7227783203125, 0.0)"
+        },
+        "skyLight": 15,
+        "blockLight": 0,
+        "sneaking": false,
+        "invisible": false,
+        "vanished": false,
+        "gamemode": {
+         "#identity": "de.bluecolored.bluemap.common.serverinterface.Gamemode@838bde0",
+         "#toString": "CREATIVE",
+         "id": "creative"
+        }
+       }
+      }
+     ]
+    },
+    "onlinePlayerList": {
+     "#identity": "java.util.Collections$SynchronizedRandomAccessList@287df881",
+     "entries": [
+      "<<de.bluecolored.bluemap.bukkit.BukkitPlayer@631ab786>>"
+     ]
+    },
+    "scheduledTasks": {
+     "#identity": "java.util.Collections$SynchronizedCollection@13a36147",
+     "entries": [
+      {
+       "#identity": "io.papermc.paper.threadedregions.scheduler.FoliaEntityScheduler$EntityScheduledTask@7740e06f"
+      }
+     ]
+    },
+    "worlds": {
+     "#identity": "de.bluecolored.shadow.caffeine.cache.BoundedLocalCache$BoundedLocalLoadingCache@5b06b29b"
+    },
+    "public abstract java.util.Collection<de.bluecolored.bluemap.common.serverinterface.ServerWorld> de.bluecolored.bluemap.common.serverinterface.Server.getLoadedServerWorlds()": {
+     "#identity": "java.util.ArrayList@74641ab1",
+     "entries": [
+      "<<de.bluecolored.bluemap.bukkit.BukkitWorld@1964f9f0>>",
+      {
+       "#identity": "de.bluecolored.bluemap.bukkit.BukkitWorld@1a98eccc",
+       "#toString": "de.bluecolored.bluemap.bukkit.BukkitWorld@8f182739",
+       "delegate": {
+        "#identity": "java.lang.ref.WeakReference@2fbee7fd"
+       },
+       "worldFolder": "./world_nether",
+       "dimension": "minecraft:the_nether",
+       "public abstract java.nio.file.Path de.bluecolored.bluemap.common.serverinterface.ServerWorld.getWorldFolder()": "./world_nether",
+       "public abstract de.bluecolored.bluemap.core.util.Key de.bluecolored.bluemap.common.serverinterface.ServerWorld.getDimension()": "minecraft:the_nether"
+      },
+      {
+       "#identity": "de.bluecolored.bluemap.bukkit.BukkitWorld@19fd004e",
+       "#toString": "de.bluecolored.bluemap.bukkit.BukkitWorld@43800963",
+       "delegate": {
+        "#identity": "java.lang.ref.WeakReference@4d182052"
+       },
+       "worldFolder": "./world_the_end",
+       "dimension": "minecraft:the_end",
+       "public abstract java.nio.file.Path de.bluecolored.bluemap.common.serverinterface.ServerWorld.getWorldFolder()": "./world_the_end",
+       "public abstract de.bluecolored.bluemap.core.util.Key de.bluecolored.bluemap.common.serverinterface.ServerWorld.getDimension()": "minecraft:the_end"
+      }
+     ]
+    },
+    "public abstract java.nio.file.Path de.bluecolored.bluemap.common.serverinterface.Server.getConfigFolder()": "plugins/BlueMap",
+    "public abstract java.util.Optional<java.nio.file.Path> de.bluecolored.bluemap.common.serverinterface.Server.getModsFolder()": {
+     "#identity": "java.util.Optional@103b5bb1",
+     "#toString": "Optional[mods]"
+    },
+    "public default de.bluecolored.bluemap.core.util.Tristate de.bluecolored.bluemap.common.serverinterface.Server.isMetricsEnabled()": {
+     "#identity": "de.bluecolored.bluemap.core.util.Tristate$1@4862c744",
+     "#toString": "Tristate.UNDEFINED",
+     "value": false
+    },
+    "public abstract java.lang.String de.bluecolored.bluemap.common.serverinterface.Server.getMinecraftVersion()": "1.20.6",
+    "public abstract java.util.Collection<de.bluecolored.bluemap.common.serverinterface.Player> de.bluecolored.bluemap.common.serverinterface.Server.getOnlinePlayers()": {
+     "#identity": "java.util.concurrent.ConcurrentHashMap$ValuesView@396c4176",
+     "entries": [
+      "<<de.bluecolored.bluemap.bukkit.BukkitPlayer@631ab786>>"
+     ]
+    }
+   },
+   "blueMap": null,
+   "pluginState": null,
+   "renderManager": null,
+   "api": null,
+   "webServer": null,
+   "webRequestHandler": null,
+   "webLogger": null,
+   "daemonTimer": null,
+   "mapUpdateServices": null,
+   "skinUpdater": null,
+   "loaded": false
+  }
+ }
+}
