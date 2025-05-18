@@ -34,3 +34,5 @@
 [08:14:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [08:15:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [08:15:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[08:37:04] [Server thread/INFO]: Apreal lost connection: Disconnected
+[08:37:04] [Server thread/INFO]: Apreal left the game
