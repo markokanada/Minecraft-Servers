@@ -70,3 +70,423 @@
 [12:40:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [12:41:04] [Server thread/INFO]: Apreal lost connection: Disconnected
 [12:41:04] [Server thread/INFO]: Apreal left the game
+[13:41:01] [User Authenticator #6/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[13:41:02] [Server thread/INFO]: KellSo joined the game
+[13:41:02] [Server thread/INFO]: KellSo[/192.168.0.1:54403] logged in with entity id 861183 at ([world]-39.634433453960916, 116.0, 15.178507362615427)
+[13:41:07] [Server thread/INFO]: KellSo issued server command: /tps
+[13:41:08] [Server thread/INFO]: KellSo issued server command: /tps
+[13:41:09] [Server thread/INFO]: KellSo issued server command: /tps
+[13:41:10] [Server thread/INFO]: KellSo issued server command: /tps
+[13:41:10] [Server thread/INFO]: KellSo issued server command: /tps
+[13:41:13] [Server thread/INFO]: KellSo issued server command: /tps
+[13:41:14] [Server thread/INFO]: KellSo issued server command: /tps
+[13:41:20] [Server thread/INFO]: KellSo issued server command: /tps
+[13:53:16] [Server thread/INFO]: KellSo was slain by Spider
+[13:56:02] [Server thread/INFO]: KellSo issued server command: /gamemode creative
+[13:56:02] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[13:56:16] [Server thread/INFO]: KellSo issued server command: /gamemode survival
+[13:56:16] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[13:57:03] [Server thread/INFO]: KellSo issued server command: /plugins
+[13:57:04] [Server thread/INFO]: KellSo issued server command: /reload
+[13:57:05] [Server thread/INFO]: KellSo: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[13:57:07] [Server thread/INFO]: KellSo issued server command: /reload confirm
+[13:57:07] [Server thread/INFO]: KellSo: Please note that this command is not supported and may cause issues when using some plugins.
+[13:57:07] [Server thread/INFO]: KellSo: If you encounter any issues please use the /stop command to restart your server.
+[13:57:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:57:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:57:08] [Server thread/INFO]: Loaded 1175 recipes
+[13:57:08] [Server thread/INFO]: Loaded 1300 advancements
+[13:57:08] [Paper Async Command Builder Thread Pool - 8/ERROR]: Caught previously unhandled exception :
+[13:57:08] [Paper Async Command Builder Thread Pool - 8/ERROR]: Paper Async Command Builder Thread Pool - 8
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(Unknown Source) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(Unknown Source) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:542) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:501) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[?:?]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:57:08] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Lumberjacked-1.0-SNAPSHOT.jar'...
+[13:57:08] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/deathchest.jar'...
+[13:57:08] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/lagassist-2.32.2.jar'...
+[13:57:08] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/instantrestock_2.5.2.jar'...
+[13:57:09] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Lumberjacked-1.0-SNAPSHOT.jar' in 489ms.
+[13:57:09] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/voicechat-bukkit-2.5.25.jar'...
+[13:57:09] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/deathchest.jar' in 638ms.
+[13:57:09] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/bluemap-5.7-paper.jar'...
+[13:57:09] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/lagassist-2.32.2.jar' in 520ms.
+[13:57:10] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/voicechat-bukkit-2.5.25.jar' in 901ms.
+[13:57:10] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/instantrestock_2.5.2.jar' in 1196ms.
+[13:57:11] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/bluemap-5.7-paper.jar' in 1627ms.
+[13:57:11] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loading 1 libraries... please wait
+[13:57:11] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.pom
+[13:57:11] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+[13:57:11] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
+[13:57:11] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loaded library /data/libraries/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/54/commons-parent-54.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/apache/27/apache-27.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.1/junit-bom-5.9.1.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/apache/23/apache-23.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/7.0.0/guice-7.0.0.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/7.0.0/guice-parent-7.0.0.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/31.0.1-jre/guava-parent-31.0.1-jre.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/26.0-android/guava-parent-26.0-android.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.pom
+[13:57:13] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.7.1/error_prone_parent-2.7.1.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.13.0/adventure-api-4.13.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.13.0/adventure-bom-4.13.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.13.0/adventure-key-4.13.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/22.0.0/annotations-22.0.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.pom
+[13:57:14] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.pom
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.pom
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.14.0/adventure-bom-4.14.0.pom
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.pom
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.pom
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.pom
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.pom
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.pom
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[13:57:15] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[13:57:15] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[13:57:15] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'Lumberjacked-1.0-SNAPSHOT.jar' in folder 'plugins/.paper-remapped'
+org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:389) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:121) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:532) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1115) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.Bukkit.reload(Bukkit.java:1023) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2200) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2174) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:57:15] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.7
+[13:57:15] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.25
+[13:57:15] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.5.2
+[13:57:15] [Server thread/INFO]: [LagAssist] Loading server plugin LagAssist v2.32.2
+[13:57:15] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.7
+[13:57:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:57:15] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.7
+[13:57:15] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[13:57:15] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[13:57:20] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[13:57:20] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.25
+[13:57:20] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.6-R0.1
+[13:57:20] [Server thread/INFO]: [voicechat] Compatibility version 18
+[13:57:20] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[13:57:20] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.5.2
+[13:57:21] [BlueMap-Load/WARN]: [BlueMap] BlueMap is missing important resources!
+[13:57:21] [BlueMap-Load/WARN]: [BlueMap] You must accept the required file download in order for BlueMap to work!
+[13:57:21] [BlueMap-Load/WARN]: [BlueMap] Please check: /data/plugins/BlueMap/core.conf
+[13:57:21] [BlueMap-Load/INFO]: [BlueMap] If you have changed the config you can simply reload the plugin using: /bluemap reload
+[13:57:22] [Server thread/INFO]: [InfiniteVillagerTrades] Enabled InstantRestock!
+[13:57:22] [Server thread/INFO]: [LagAssist] Enabling LagAssist v2.32.2
+[13:57:22] [Server thread/INFO]: §2§lLag§f§lAssist §e» §fEnabling Systems:
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fEconomy manager
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fSmart Mob Tools.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fMicroFeatures.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fHopper Manager.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fRedstone Culler.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fPhysics-Tweaker.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fLag Monitor.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fMapVisualizer.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fChunk Analyser.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fChunk Limiter.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fStatsAnalyse.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fSpawner Manager.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fGUI.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fInjecting PacketListener.
+[13:57:22] [Server thread/INFO]:     §e[§a✔§e] §fAPI Tools.
+[13:57:23] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
+[13:57:23] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world"
+[13:57:23] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[13:57:23] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[13:57:23] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[13:57:23] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[13:57:23] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[13:57:23] [Paper Async Command Builder Thread Pool - 9/ERROR]: Caught previously unhandled exception :
+[13:57:23] [Paper Async Command Builder Thread Pool - 9/ERROR]: Paper Async Command Builder Thread Pool - 9
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(Unknown Source) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(Unknown Source) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:542) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:507) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[?:?]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:57:23] [Server thread/INFO]: KellSo: Reload complete.
+[13:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16692ms or 333 ticks behind
+[13:57:23] [Server thread/INFO]: Timings Reset
+[13:57:23] [Server thread/INFO]: KellSo issued server command: /tps
+[13:57:23] [Server thread/INFO]: [voicechat] Loading plugins
+[13:57:23] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[13:57:23] [Server thread/INFO]: [voicechat] Initializing plugins
+[13:57:23] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[13:57:23] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[13:57:23] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[13:57:24] [Craft Scheduler Thread - 4 - LagAssist/INFO]: §2§lLag§f§lAssist §e» §fYou are up to date with LagAssist.
+[13:57:52] [Server thread/INFO]: KellSo issued server command: /plugins
+[13:59:00] [Server thread/INFO]: KellSo issued server command: /reload
+[13:59:00] [Server thread/INFO]: KellSo: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[13:59:05] [Server thread/INFO]: KellSo issued server command: /reload confirm
+[13:59:05] [Server thread/INFO]: KellSo: Please note that this command is not supported and may cause issues when using some plugins.
+[13:59:05] [Server thread/INFO]: KellSo: If you encounter any issues please use the /stop command to restart your server.
+[13:59:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:59:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:59:05] [Server thread/INFO]: [DeathChest] Disabling DeathChest v2.2.7
+[13:59:05] [Server thread/INFO]: [LagAssist] Disabling LagAssist v2.32.2
+[13:59:05] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.2
+[13:59:05] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.25
+[13:59:05] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.7
+[13:59:05] [Server thread/INFO]: [BlueMap] Stopping...
+[13:59:05] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[13:59:05] [Server thread/INFO]: Loaded 1175 recipes
+[13:59:06] [Server thread/INFO]: Loaded 1300 advancements
+[13:59:06] [Paper Async Command Builder Thread Pool - 11/ERROR]: Caught previously unhandled exception :
+[13:59:06] [Paper Async Command Builder Thread Pool - 11/ERROR]: Paper Async Command Builder Thread Pool - 11
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(Unknown Source) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(Unknown Source) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:542) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:501) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[?:?]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:59:06] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/FallingTrees-1.0-SNAPSHOT.jar'...
+[13:59:06] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/FallingTrees-1.0-SNAPSHOT.jar' in 43ms.
+[13:59:06] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loading 1 libraries... please wait
+[13:59:06] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loaded library /data/libraries/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[13:59:07] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[13:59:07] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.7
+[13:59:07] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.25
+[13:59:07] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.5.2
+[13:59:07] [Server thread/INFO]: [FallingTrees] Loading server plugin FallingTrees v1.0-SNAPSHOT
+[13:59:07] [Server thread/INFO]: [LagAssist] Loading server plugin LagAssist v2.32.2
+[13:59:07] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.7
+[13:59:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:59:07] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.7
+[13:59:07] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[13:59:07] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[13:59:08] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[13:59:08] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.25
+[13:59:08] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.6-R0.1
+[13:59:08] [Server thread/INFO]: [voicechat] Compatibility version 18
+[13:59:08] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[13:59:08] [Server thread/ERROR]: [voicechat] Simple Voice Chat does not support reloads! Expect that things will break!
+[13:59:08] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.5.2
+[13:59:08] [BlueMap-Load/WARN]: [BlueMap] BlueMap is missing important resources!
+[13:59:08] [BlueMap-Load/WARN]: [BlueMap] You must accept the required file download in order for BlueMap to work!
+[13:59:08] [BlueMap-Load/WARN]: [BlueMap] Please check: /data/plugins/BlueMap/core.conf
+[13:59:08] [BlueMap-Load/INFO]: [BlueMap] If you have changed the config you can simply reload the plugin using: /bluemap reload
+[13:59:09] [Server thread/INFO]: [InfiniteVillagerTrades] Enabled InstantRestock!
+[13:59:09] [Server thread/INFO]: [FallingTrees] Enabling FallingTrees v1.0-SNAPSHOT
+[13:59:09] [Server thread/INFO]: [LagAssist] Enabling LagAssist v2.32.2
+[13:59:09] [Server thread/INFO]: §2§lLag§f§lAssist §e» §fEnabling Systems:
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fEconomy manager
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fSmart Mob Tools.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fMicroFeatures.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fHopper Manager.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fRedstone Culler.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fPhysics-Tweaker.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fLag Monitor.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fMapVisualizer.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fChunk Analyser.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fChunk Limiter.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fStatsAnalyse.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fSpawner Manager.
+[13:59:09] [Server thread/INFO]:     §e[§a✔§e] §fGUI.
+[13:59:10] [Server thread/INFO]:     §e[§a✔§e] §fInjecting PacketListener.
+[13:59:10] [Server thread/INFO]:     §e[§a✔§e] §fAPI Tools.
+[13:59:10] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
+[13:59:10] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world"
+[13:59:10] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[13:59:10] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[13:59:10] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[13:59:10] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[13:59:10] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[13:59:10] [Server thread/INFO]: KellSo: Reload complete.
+[13:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5405ms or 108 ticks behind
+[13:59:10] [Server thread/INFO]: Timings Reset
+[13:59:10] [Paper Async Command Builder Thread Pool - 12/ERROR]: Caught previously unhandled exception :
+[13:59:10] [Paper Async Command Builder Thread Pool - 12/ERROR]: Paper Async Command Builder Thread Pool - 12
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(Unknown Source) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(Unknown Source) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:542) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:507) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[?:?]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:59:10] [Server thread/INFO]: [voicechat] Loading plugins
+[13:59:10] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[13:59:10] [Server thread/INFO]: [voicechat] Initializing plugins
+[13:59:10] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[13:59:10] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[13:59:10] [Craft Scheduler Thread - 13 - LagAssist/INFO]: §2§lLag§f§lAssist §e» §fYou are up to date with LagAssist.
+[13:59:10] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[13:59:14] [Server thread/INFO]: KellSo issued server command: /plugins
