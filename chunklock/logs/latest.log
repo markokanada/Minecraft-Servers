@@ -41,3 +41,13 @@
 [09:47:33] [Server thread/INFO]: Szarka_[/100.82.150.250:49509] logged in with entity id 669434 at ([world]9.538194850238957, 81.0, 14.31267196240478)
 [09:51:47] [Server thread/INFO]: Szarka_ lost connection: Disconnected
 [09:51:47] [Server thread/INFO]: Szarka_ left the game
+[11:32:19] [User Authenticator #5/INFO]: UUID of player Apreal is 240a440a-af2b-39c4-9168-a81b7c25a996
+[11:32:20] [Server thread/INFO]: Apreal joined the game
+[11:32:20] [Server thread/INFO]: Apreal[/100.68.35.137:51550] logged in with entity id 681651 at ([world]240.85569718547612, 88.0, -50.263760910069735)
+[11:34:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[11:37:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[11:37:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[11:37:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[11:37:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[11:37:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[11:37:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
