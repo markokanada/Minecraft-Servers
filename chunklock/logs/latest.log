@@ -1374,3 +1374,15 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [16:37:42] [Server thread/INFO]: Petranszki lost connection: Disconnected
 [16:37:42] [Server thread/INFO]: [voicechat] Disconnecting client Petranszki
 [16:37:42] [Server thread/INFO]: Petranszki left the game
+[20:52:03] [User Authenticator #2/INFO]: UUID of player Wofyra is fde36d0f-30c9-349b-ab0f-dc3b7ae80fd5
+[20:52:04] [Server thread/INFO]: Wofyra joined the game
+[20:52:04] [Server thread/INFO]: Wofyra[/92.249.208.101:60239] logged in with entity id 127597 at ([world]165.23506012231095, 75.0, -6.012211852128021)
+[20:52:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20:52:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20:55:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20:55:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20:57:24] [Server thread/INFO]: Wofyra has made the advancement [Hot Stuff]
+[20:58:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20:59:59] [Server thread/INFO]: Wofyra lost connection: Disconnected
+[20:59:59] [Server thread/INFO]: [voicechat] Disconnecting client Wofyra
+[20:59:59] [Server thread/INFO]: Wofyra left the game
