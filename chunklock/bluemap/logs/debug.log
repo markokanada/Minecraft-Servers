@@ -1,4 +1,4 @@
-[2025-05-18 14:02:56][WARNING] BlueMap is missing important resources!
-[2025-05-18 14:02:56][WARNING] You must accept the required file download in order for BlueMap to work!
-[2025-05-18 14:02:56][WARNING] Please check: /data/plugins/BlueMap/core.conf
-[2025-05-18 14:02:56][INFO] If you have changed the config you can simply reload the plugin using: /bluemap reload
+[2025-05-19 14:55:53][WARNING] BlueMap is missing important resources!
+[2025-05-19 14:55:53][WARNING] You must accept the required file download in order for BlueMap to work!
+[2025-05-19 14:55:53][WARNING] Please check: /data/plugins/BlueMap/core.conf
+[2025-05-19 14:55:53][INFO] If you have changed the config you can simply reload the plugin using: /bluemap reload
