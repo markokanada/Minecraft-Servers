@@ -2765,5 +2765,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-19 15:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-19 15:04:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }
