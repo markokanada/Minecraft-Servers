@@ -11,6 +11,7 @@
       "minecraft:cherry_grove": "2025-05-13 11:43:29 +0000",
       "minecraft:sunflower_plains": "2025-05-13 12:23:51 +0000",
       "minecraft:river": "2025-05-20 17:41:59 +0000",
+      "minecraft:birch_forest": "2025-05-20 18:03:47 +0000",
       "minecraft:dripstone_caves": "2025-05-13 11:49:14 +0000",
       "minecraft:plains": "2025-05-13 11:48:16 +0000"
     },
@@ -2789,6 +2790,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-20 17:54:54 +0000"
+    },
+    "done": true
+  },
+  "chunklock:main/chunks_unlocked_3": {
+    "criteria": {
+      "chunksUnlocked": "2025-05-20 17:59:33 +0000"
     },
     "done": true
   },
