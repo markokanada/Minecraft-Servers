@@ -864,6 +864,7 @@
       "minecraft:pillager": "2025-05-16 16:44:16 +0000",
       "minecraft:skeleton": "2025-05-13 12:45:22 +0000",
       "minecraft:vindicator": "2025-05-16 17:34:48 +0000",
+      "minecraft:magma_cube": "2025-05-20 13:25:17 +0000",
       "minecraft:spider": "2025-05-13 12:21:11 +0000",
       "minecraft:zombie": "2025-05-13 12:21:22 +0000",
       "minecraft:creeper": "2025-05-13 12:23:29 +0000",
@@ -2821,6 +2822,42 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-05-17 15:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-20 13:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-20 13:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-20 13:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-20 13:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-20 13:24:18 +0000"
+    },
+    "done": true
+  },
+  "chunklock:main/chunks_nether_unlocked_1": {
+    "criteria": {
+      "chunksUnlocked": "2025-05-20 13:27:50 +0000"
     },
     "done": true
   },
