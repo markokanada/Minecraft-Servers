@@ -558,7 +558,7 @@ spawner-check:
   # disabled.
   # EG: If TPS is under 16, LagAssist will start modifying how the spawners work.
   # TIP: Set to 0.0 to disable it.
-  maxtps: 16.0
+  maxtps: 6.0
 
 # The Physics system disables laggy or ununsed game mechanics that might lag your server. The physics system can
 # be set to be enabled on start or by using /lagassist.
@@ -573,7 +573,7 @@ deny-physics:
   # Automatic Physics disabler will occur if TPS is under this value.
   # EG: If TPS is under 17, LagAssist will disable Physics
   # TIP: Set to 0.0 to disable it.
-  maxtps: 17.0
+  maxtps: 8.0
   # What should we disable? Please make sure this fits your game perfectly. If you have a cannoning server,
   # disabling explosions would be useless. At the same time, you shouldn't enable them for a survival server.
   systems:
