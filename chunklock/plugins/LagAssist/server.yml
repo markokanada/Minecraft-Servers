@@ -389,7 +389,7 @@ redstone-culler:
   # Automatic Redstone culling will occur if TPS is under this value.
   # EG: If TPS is under 19, LagAssist will cull redstone each time the monitor runs.
   # TIP: Set to 0.0 to disable it.
-  maxtps: 19.0
+  maxtps: 2.0
 
 
 # Disable hopper crafting. Hoppers are one of the issues non-minigame server owners have to face. Enabling this
