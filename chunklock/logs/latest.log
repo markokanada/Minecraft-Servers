@@ -5259,3 +5259,6 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [21:47:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
 [21:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
 [21:48:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3544ms or 70 ticks behind
+[22:28:26] [Server thread/INFO]: Apreal lost connection: Disconnected
+[22:28:26] [Server thread/INFO]: [voicechat] Disconnecting client Apreal
+[22:28:27] [Server thread/INFO]: Apreal left the game
