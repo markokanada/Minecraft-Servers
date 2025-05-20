@@ -316,6 +316,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-13 13:45:30 +0000",
       "apple": "2025-05-13 20:42:18 +0000",
+      "chicken": "2025-05-20 20:13:24 +0000",
       "bread": "2025-05-13 12:00:21 +0000",
       "porkchop": "2025-05-17 21:24:03 +0000",
       "carrot": "2025-05-13 14:19:09 +0000"
@@ -2892,9 +2893,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-20 20:12:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-05-20 19:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-20 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-20 20:12:57 +0000"
     },
     "done": true
   },
