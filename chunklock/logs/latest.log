@@ -8447,3 +8447,9 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [20:53:53] [Server thread/INFO]: KellSo lost connection: Disconnected
 [20:53:53] [Server thread/INFO]: [voicechat] Disconnecting client KellSo
 [20:53:53] [Server thread/INFO]: KellSo left the game
+[21:46:10] [User Authenticator #12/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[21:46:11] [Server thread/INFO]: KellSo joined the game
+[21:46:11] [Server thread/INFO]: KellSo[/192.168.0.1:57361] logged in with entity id 2966854 at ([world]-69.73696914731137, 149.0, -5.665385426633451)
+[21:46:17] [Server thread/INFO]: KellSo lost connection: Disconnected
+[21:46:17] [Server thread/INFO]: [voicechat] Disconnecting client KellSo
+[21:46:17] [Server thread/INFO]: KellSo left the game
