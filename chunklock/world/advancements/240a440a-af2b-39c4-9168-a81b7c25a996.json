@@ -958,6 +958,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-13 12:48:22 +0000",
       "minecraft:enderman": "2025-05-18 07:44:15 +0000",
+      "minecraft:magma_cube": "2025-05-21 13:57:37 +0000",
       "minecraft:witch": "2025-05-19 13:30:45 +0000",
       "minecraft:spider": "2025-05-13 12:52:03 +0000",
       "minecraft:zombie": "2025-05-13 13:22:39 +0000",
@@ -2888,6 +2889,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-20 20:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-05-21 13:56:07 +0000"
     },
     "done": true
   },
