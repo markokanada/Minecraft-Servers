@@ -957,6 +957,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-13 12:48:22 +0000",
+      "minecraft:piglin": "2025-05-21 20:01:57 +0000",
+      "minecraft:zombified_piglin": "2025-05-21 20:19:56 +0000",
       "minecraft:enderman": "2025-05-18 07:44:15 +0000",
       "minecraft:magma_cube": "2025-05-21 13:57:37 +0000",
       "minecraft:witch": "2025-05-19 13:30:45 +0000",
@@ -3033,15 +3035,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-05-21 18:22:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-05-21 18:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-21 18:22:35 +0000"
     },
     "done": true
   },
@@ -3063,12 +3065,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-05-21 19:20:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-21 18:22:35 +0000"
@@ -3081,27 +3077,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-05-21 19:20:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-05-21 18:22:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-21 18:22:35 +0000"
-    },
-    "done": true
-  },
-  "chunklock:main/chunk_item_nether_brick": {
-    "criteria": {
-      "chunksUnlocked": "2025-05-21 18:25:33 +0000"
     },
     "done": true
   },
@@ -3114,6 +3092,30 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-05-21 18:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-21 18:22:42 +0000"
+    },
+    "done": true
+  },
+  "chunklock:main/chunk_item_nether_brick": {
+    "criteria": {
+      "chunksUnlocked": "2025-05-21 18:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-21 19:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-21 19:20:28 +0000"
     },
     "done": true
   },
