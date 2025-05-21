@@ -3004,3 +3004,169 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
 	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:22:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:23:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:24:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:24:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:26:24] [User Authenticator #4/INFO]: UUID of player Petranszki is a8d8eae2-d93c-3d93-8bd1-f8eff6a9a599
+[13:26:24] [Server thread/INFO]: Petranszki joined the game
+[13:26:24] [Server thread/INFO]: Petranszki[/46.139.112.85:62598] logged in with entity id 1487219 at ([world]248.9442943615438, 83.0, -48.48245396991387)
+[13:26:39] [Async Chat Thread - #8/INFO]: [Not Secure] <Petranszki> Henlo
+[13:26:42] [Async Chat Thread - #9/INFO]: [Not Secure] <Apreal> haii
+[13:27:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:27:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:27:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:27:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:27:49] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Wazzup?
+[13:27:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> semmi
+[13:28:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> valszeg gyűjtök majd homokot
+[13:28:25] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Hell yeah
+[13:28:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> és valszeg kibővítem belülről a dungeont
+[13:28:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Na mivel?
+[13:29:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:29:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:29:25] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> most még csak több kamrával
+[13:29:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> és akkor mindennek lehet valami szerepe
+[13:29:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:30:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:30:02] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Aha aha
+[13:30:36] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Legyek e menace és építsem meg a tornyot a fafarm köré
+[13:30:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> yas
+[13:30:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Tudtam hogy te támogatni fogod a rossz döntéseim
+[13:31:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> én mindig
+[13:31:18] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Ezért vagy az egyik kedvenc
+[13:31:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Kéne egy vibe
+[13:31:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> na milyen
+[13:31:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> A lépcső ellopta a szexi fekete fehér gradient vibeot
+[13:32:01] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Legyen valami, magic?
+[13:32:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Varázstorony?
+[13:32:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> az jó lehet
+[13:32:17] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> és van már dark oak hozzá
+[13:32:24] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Hell YEAH
+[13:32:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:32:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Mondjuk kurva nagy lesz
+[13:32:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> az a lényeg
+[13:32:46] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Bár... Most még az jutott eszembe hogy
+[13:33:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Nagy hegy, és a tetején mondjuk az a, szem valami?
+[13:33:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> melyik hegynek?
+[13:33:12] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> A filmekből
+[13:33:23] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Gyűrűk úra?!
+[13:33:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Abban van valami olyan, nem?
+[13:33:30] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> Szauron tornya?
+[13:33:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Vagy hülye vagyok?
+[13:33:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> IGEN
+[13:33:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> Az
+[13:34:12] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> meg egyébként már találtam Lush cave-t
+[13:34:17] [Async Chat Thread - #11/INFO]: [Not Secure] <Apreal> ha onnan kéne valami
+[13:34:34] [Async Chat Thread - #11/INFO]: [Not Secure] <Petranszki> UUU
+[13:34:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Jövök má' :prayer:
+[13:34:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> enyhén messze van azért
+[13:35:01] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> My beloved
+[13:35:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> és itt van egy egyenes út
+[13:36:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Elég creepy
+[13:36:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:24] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> hát ha kellett hát kellett
+[13:36:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> A cél szentesíti a módszert
+[13:36:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> és mivel mindenhez valami fa kellett ezért út közben kiszedtem őket
+[13:36:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> :d
+[13:37:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> itt a pókfarmomnál leafkolok egy kicsit
+[13:37:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:39] [Async Chat Thread - #10/INFO]: [Not Secure] <Apreal> brb
+[13:37:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Petranszki> Okey
+[13:37:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:37:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[13:38:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[13:38:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:38:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[13:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[13:39:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
