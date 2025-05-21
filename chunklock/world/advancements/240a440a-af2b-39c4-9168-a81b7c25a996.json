@@ -2801,15 +2801,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-05-20 19:17:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-05-20 19:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 19:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-20 19:17:12 +0000"
     },
     "done": true
   },
@@ -2831,27 +2837,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-20 19:16:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-20 20:48:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-20 19:17:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-05-20 19:19:45 +0000"
     },
     "done": true
   },
@@ -2867,6 +2855,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-20 19:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-20 19:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-20 19:19:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-20 19:19:45 +0000"
@@ -2879,15 +2885,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_planks": "2025-05-20 19:17:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-05-20 19:17:12 +0000"
+      "shot_arrow": "2025-05-20 20:48:37 +0000"
     },
     "done": true
   },
