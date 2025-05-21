@@ -8453,3 +8453,5 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [21:46:17] [Server thread/INFO]: KellSo lost connection: Disconnected
 [21:46:17] [Server thread/INFO]: [voicechat] Disconnecting client KellSo
 [21:46:17] [Server thread/INFO]: KellSo left the game
+[22:19:26] [Craft Scheduler Thread - 6699 - DeathChest/INFO]: [DeathChest] Unable to check for updates: Connection timed out
+[22:19:26] [Craft Scheduler Thread - 6699 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
