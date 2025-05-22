@@ -5594,3 +5594,10 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [14:39:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [14:39:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [14:39:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[14:40:11] [Server thread/INFO]: Apreal lost connection: Disconnected
+[14:40:11] [Server thread/INFO]: [voicechat] Disconnecting client Apreal
+[14:40:11] [Server thread/INFO]: Apreal left the game
+[14:40:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[14:40:24] [Server thread/INFO]: Petranszki lost connection: Disconnected
+[14:40:24] [Server thread/INFO]: [voicechat] Disconnecting client Petranszki
+[14:40:24] [Server thread/INFO]: Petranszki left the game
