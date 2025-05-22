@@ -3075,5 +3075,11 @@
     },
     "done": true
   },
+  "chunklock:main/chunks_unlocked_2": {
+    "criteria": {
+      "chunksUnlocked": "2025-05-22 13:49:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }
