@@ -6986,3 +6986,6 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [21:59:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
 [22:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
 [22:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[22:51:26] [Server thread/INFO]: Petranszki lost connection: Disconnected
+[22:51:26] [Server thread/INFO]: [voicechat] Disconnecting client Petranszki
+[22:51:26] [Server thread/INFO]: Petranszki left the game
