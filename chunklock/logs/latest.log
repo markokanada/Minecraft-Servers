@@ -6127,3 +6127,5 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [17:59:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [17:59:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [17:59:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[18:00:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[18:01:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'

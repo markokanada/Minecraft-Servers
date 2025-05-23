@@ -3075,6 +3075,12 @@
     },
     "done": true
   },
+  "chunklock:main/chunks_unlocked_2": {
+    "criteria": {
+      "chunksUnlocked": "2025-05-22 13:49:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-05-22 14:19:34 +0000"
@@ -3084,12 +3090,6 @@
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-22 14:19:34 +0000"
-    },
-    "done": true
-  },
-  "chunklock:main/chunks_unlocked_2": {
-    "criteria": {
-      "chunksUnlocked": "2025-05-22 13:49:15 +0000"
     },
     "done": true
   },
