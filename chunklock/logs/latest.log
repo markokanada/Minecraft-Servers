@@ -6972,3 +6972,14 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
 	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[21:30:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[21:30:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7424ms or 148 ticks behind
+[21:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6564ms or 131 ticks behind
+[21:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6984ms or 139 ticks behind
+[21:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7863ms or 157 ticks behind
+[21:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6101ms or 122 ticks behind
+[21:32:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7882ms or 157 ticks behind
+[21:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6064ms or 121 ticks behind
+[21:33:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5884ms or 117 ticks behind
+[21:33:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7082ms or 141 ticks behind
+[21:34:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6787ms or 135 ticks behind
