@@ -2945,3 +2945,1599 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [12:19:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [12:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
 [12:19:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3706ms or 74 ticks behind
+[12:20:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4479ms or 89 ticks behind
+[12:20:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4394ms or 87 ticks behind
+[12:20:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:20:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3868ms or 77 ticks behind
+[12:21:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[12:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[12:21:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:21:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:19] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:22:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:22:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:23:59] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:24:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:24:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:25:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:25:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:25:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:25:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:25:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:25:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:25:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:25:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:25:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:26:15] [Server thread/INFO]: Apreal has reached the goal [Hired Help]
+[12:26:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:26:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:26:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:26:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:26:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:26:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:26:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:26:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:26:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:27:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:28:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:29:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:30:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:31:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:32:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:33:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:33:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:33:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:33:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:34:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:34:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:34:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:34:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:34:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:35:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:35:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:35:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:35:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:35:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:36:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:36:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:36:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:36:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:36:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:37:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:37:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:38:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:38:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:38:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:38:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:38:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:38:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:38:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:39:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:40:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:41:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:10] [Server thread/WARN]: Spruce Boat (vehicle of Apreal) moved wrongly! 0.3209804997422907
+[12:42:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:42:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:43:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:44:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:44:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:44:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:44:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:44:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:45:17] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:20] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:21] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:21] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:23] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:31] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:32] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:34] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:35] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:36] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:38] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:45:59] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:47:38] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:47:38] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:48:36] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:48:42] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1562) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:48:43] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:48:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:49:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:21] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:50:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:20] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:51:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:52:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:17] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:53:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:53:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:54:23] [Server thread/WARN]: Apreal was kicked for floating too long!
+[12:54:23] [Server thread/INFO]: Apreal lost connection: Flying is not enabled on this server
+[12:54:23] [Server thread/INFO]: [voicechat] Disconnecting client Apreal
+[12:54:23] [Server thread/INFO]: Apreal left the game
+[12:54:26] [User Authenticator #19/INFO]: UUID of player Apreal is 240a440a-af2b-39c4-9168-a81b7c25a996
+[12:54:27] [Server thread/INFO]: Apreal joined the game
+[12:54:27] [Server thread/INFO]: Apreal[/100.68.35.229:50980] logged in with entity id 4029096 at ([world]752.3403060629183, 128.84610397459556, 368.57593985236025)
+[12:54:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3433ms or 68 ticks behind
+[12:55:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:55:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:55:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:36] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:56:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:07] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:27] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:57:52] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:57:53] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[12:58:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:58:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:29] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:50] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[12:59:59] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:00:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:47] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:01:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:06:53] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:07:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:07:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:07:28] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:07:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:07:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:32:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:32:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:32:56] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:35] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:42] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:46] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:33:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:01] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:13] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:31] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:40] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:41] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:43] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:45] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:52] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:34:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:00] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:02] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:05] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:09] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:11] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:14] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:16] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:32] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:33] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:44] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:48] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:35:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:03] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:17] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:23] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:36:28] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:39:04] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1603) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:39:05] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:39:24] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:39:37] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:39:37] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:39:39] [Server thread/ERROR]: Could not pass event InventoryDragEvent to LagAssist v2.32.2
+java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.InventoryView, but interface was expected
+	at lagassist-2.32.2.jar/org.alvindimas05.lagassist.gui.HopperGUI.onInventoryDrag(HopperGUI.java:175) ~[lagassist-2.32.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor50.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.20.6-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.inventory.AbstractContainerMenu.doClick(AbstractContainerMenu.java:480) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.world.inventory.AbstractContainerMenu.clicked(AbstractContainerMenu.java:382) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3112) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:55) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1511) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1488) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1411) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1377) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
+	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[13:39:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[13:39:55] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'

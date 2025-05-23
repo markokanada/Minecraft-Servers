@@ -958,18 +958,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-23 12:57:14 +0000",
       "minecraft:skeleton": "2025-05-13 12:48:22 +0000",
-      "minecraft:piglin": "2025-05-21 20:01:57 +0000",
       "minecraft:zombified_piglin": "2025-05-21 20:19:56 +0000",
+      "minecraft:witch": "2025-05-19 13:30:45 +0000",
+      "minecraft:ghast": "2025-05-21 14:10:33 +0000",
+      "minecraft:piglin": "2025-05-21 20:01:57 +0000",
       "minecraft:enderman": "2025-05-18 07:44:15 +0000",
       "minecraft:magma_cube": "2025-05-21 13:57:37 +0000",
-      "minecraft:witch": "2025-05-19 13:30:45 +0000",
       "minecraft:spider": "2025-05-13 12:52:03 +0000",
       "minecraft:zombie": "2025-05-13 13:22:39 +0000",
       "minecraft:creeper": "2025-05-13 12:24:30 +0000",
       "minecraft:drowned": "2025-05-13 12:54:10 +0000",
       "minecraft:zombie_villager": "2025-05-13 16:59:23 +0000",
-      "minecraft:ghast": "2025-05-21 14:10:33 +0000"
+      "minecraft:slime": "2025-05-23 12:57:08 +0000"
     },
     "done": false
   },
@@ -3265,12 +3267,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-05-23 12:02:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-05-23 11:17:38 +0000"
@@ -3295,21 +3291,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-05-23 11:52:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-05-23 11:17:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-23 11:59:37 +0000"
     },
     "done": true
   },
@@ -3319,15 +3303,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-23 11:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-23 11:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-23 11:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-05-23 11:52:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_planks": "2025-05-23 11:17:38 +0000"
+      "traded": "2025-05-23 11:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-23 12:02:59 +0000"
     },
     "done": true
   },
@@ -3337,9 +3345,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "has_pumpkin": "2025-05-23 11:52:13 +0000"
+      "summoned_golem": "2025-05-23 12:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-23 12:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-23 12:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-23 12:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-05-23 13:39:09 +0000"
     },
     "done": true
   },
