@@ -1,6 +1,2 @@
-[06:18:02] [User Authenticator #22/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
-[06:18:03] [Server thread/INFO]: KellSo joined the game
-[06:18:03] [Server thread/INFO]: KellSo[/37.76.45.213:30912] logged in with entity id 5031490 at ([world]-54.746492023276915, 133.0, -2.170101902304533)
-[06:24:13] [Server thread/INFO]: KellSo lost connection: Disconnected
-[06:24:13] [Server thread/INFO]: [voicechat] Disconnecting client KellSo
-[06:24:13] [Server thread/INFO]: KellSo left the game
+[15:03:23] [Craft Scheduler Thread - 39685 - DeathChest/INFO]: [DeathChest] Unable to check for updates: hangar.papermc.io
+[15:03:23] [Craft Scheduler Thread - 39685 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
