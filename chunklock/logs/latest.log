@@ -1,2 +1,16 @@
-[15:03:23] [Craft Scheduler Thread - 39685 - DeathChest/INFO]: [DeathChest] Unable to check for updates: hangar.papermc.io
-[15:03:23] [Craft Scheduler Thread - 39685 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
+[17:04:12] [Server thread/INFO]: Stopping server
+[17:04:12] [Server thread/INFO]: [DeathChest] Disabling DeathChest v2.2.7
+[17:04:13] [Server thread/INFO]: [LagAssist] Disabling LagAssist v2.32.2
+[17:04:13] [Server thread/INFO]: [FallingTrees] Disabling FallingTrees v1.0-SNAPSHOT
+[17:04:13] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.2
+[17:04:13] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.25
+[17:04:14] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.7
+[17:04:14] [Server thread/INFO]: [BlueMap] Stopping...
+[17:04:14] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[17:04:14] [Server thread/INFO]: Saving players
+[17:04:14] [Server thread/INFO]: Saving worlds
+[17:04:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:04:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:04:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:04:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:04:15] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 627 entity chunks, 0 poi chunks in world 'world' in 0.14s
