@@ -286,3 +286,4 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
 	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
 [16:37:54] [Server thread/INFO]: KellSo issued server command: /tps
+[16:55:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
