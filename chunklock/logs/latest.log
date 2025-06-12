@@ -453,3 +453,7 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [20:04:14] [Server thread/INFO]: Petranszki lost connection: Disconnected
 [20:04:14] [Server thread/INFO]: [voicechat] Disconnecting client Petranszki
 [20:04:14] [Server thread/INFO]: Petranszki left the game
+[20:49:21] [Server thread/INFO]: KellSo issued server command: /gamemode creative
+[20:49:21] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[20:49:37] [Server thread/INFO]: KellSo issued server command: /gamemode survival
+[20:49:37] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
