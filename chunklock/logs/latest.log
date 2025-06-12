@@ -457,3 +457,5 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 [20:49:21] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
 [20:49:37] [Server thread/INFO]: KellSo issued server command: /gamemode survival
 [20:49:37] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[23:13:02] [Craft Scheduler Thread - 1935 - DeathChest/WARN]: [DeathChest] New version 2.2.8 is out. You are still running 2.2.7
+[23:13:02] [Craft Scheduler Thread - 1935 - DeathChest/WARN]: [DeathChest] Please update the plugin at https://www.spigotmc.org/resources/death-chest.101066/
