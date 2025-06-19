@@ -1,2 +1,33 @@
-[19:44:42] [Craft Scheduler Thread - 30077 - DeathChest/INFO]: [DeathChest] Unable to check for updates: Server returned HTTP response code: 524 for URL: https://hangar.papermc.io/api/v1/projects/DeathChest/latestrelease
-[19:44:42] [Craft Scheduler Thread - 30077 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
+[12:58:54] [Server thread/INFO]: Stopping server
+[12:58:54] [Server thread/INFO]: [DeathChest] Disabling DeathChest v2.2.7
+[12:58:54] [Server thread/INFO]: [LagAssist] Disabling LagAssist v2.32.2
+[12:58:54] [Server thread/INFO]: [FallingTrees] Disabling FallingTrees v1.0-SNAPSHOT
+[12:58:54] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.2
+[12:58:54] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.25
+[12:58:54] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.7
+[12:58:54] [Server thread/INFO]: [BlueMap] Stopping...
+[12:58:54] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[12:58:54] [Server thread/INFO]: Saving players
+[12:58:54] [Server thread/INFO]: Saving worlds
+[12:58:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:58:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[12:58:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[12:58:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[12:58:55] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 627 entity chunks, 0 poi chunks in world 'world' in 0.28s
+[12:58:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:58:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:58:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[12:58:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[12:58:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[12:58:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 48 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[12:58:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:58:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:58:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[12:58:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[12:58:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[12:58:55] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[12:58:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:58:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:58:55] [Server thread/INFO]: Flushing Chunk IO
+[12:58:55] [Server thread/INFO]: Closing Thread Pool
+[12:58:55] [Server thread/INFO]: Closing Server
