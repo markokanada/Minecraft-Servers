@@ -409,3 +409,5 @@ java.lang.IncompatibleClassChangeError: Found class org.bukkit.inventory.Invento
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1238) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:323) ~[paper-1.20.6.jar:1.20.6-151-a4f0f5c]
 	at java.base/java.lang.Thread.run(Unknown Source) ~[?:?]
+[18:09:05] [Craft Scheduler Thread - 1209 - DeathChest/INFO]: [DeathChest] Unable to check for updates: hangar.papermc.io
+[18:09:05] [Craft Scheduler Thread - 1209 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
