@@ -1,3 +1,5 @@
 [03:39:46] [Server thread/INFO]: KellSo lost connection: Disconnected
 [03:39:46] [Server thread/INFO]: [voicechat] Disconnecting client KellSo
 [03:39:46] [Server thread/INFO]: KellSo left the game
+[15:09:05] [Craft Scheduler Thread - 6278 - DeathChest/INFO]: [DeathChest] Unable to check for updates: hangar.papermc.io
+[15:09:05] [Craft Scheduler Thread - 6278 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
