@@ -1,126 +1,33 @@
-[22:14:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:14:03] [ServerMain/INFO]: Loaded 1175 recipes
-[22:14:04] [ServerMain/INFO]: Loaded 1300 advancements
-[22:14:04] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[22:14:04] [Server thread/INFO]: Loading properties
-[22:14:04] [Server thread/INFO]: This server is running Paper version 1.20.6-151-ver/1.20.6@a4f0f5c (2024-10-30T19:13:22Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
-[22:14:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:14:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:14:07] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[22:14:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 6 worker threads, and gen parallelism of 6 threads
-[22:14:07] [Server thread/INFO]: Default game type: SURVIVAL
-[22:14:07] [Server thread/INFO]: Generating keypair
-[22:14:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:14:08] [Server thread/INFO]: Using epoll channel type
-[22:14:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:14:08] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[22:14:08] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loading 1 libraries... please wait
-[22:14:08] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loaded library /data/libraries/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
-[22:14:10] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
-[22:14:12] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /data/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
-[22:14:12] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.7
-[22:14:12] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.25
-[22:14:12] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.5.2
-[22:14:12] [Server thread/INFO]: [FallingTrees] Loading server plugin FallingTrees v1.0-SNAPSHOT
-[22:14:12] [Server thread/INFO]: [LagAssist] Loading server plugin LagAssist v2.32.2
-[22:14:12] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.8
-[22:14:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:14:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:14:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:14:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:14:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:14:12] [Server thread/INFO]: Preparing level "world"
-[22:14:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:14:15] [Server thread/INFO]: Time elapsed: 2455 ms
-[22:14:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:14:17] [Server thread/INFO]: Time elapsed: 1498 ms
-[22:14:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:14:17] [Server thread/INFO]: Time elapsed: 179 ms
-[22:14:17] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.7
-[22:14:17] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
-[22:14:17] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[22:14:17] [BlueMap-Load/INFO]: [BlueMap] Loading...
-[22:14:17] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.25
-[22:14:18] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.6-R0.1
-[22:14:18] [Server thread/INFO]: [voicechat] Compatibility version 18
-[22:14:18] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[22:14:18] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.5.2
-[22:14:20] [BlueMap-Load/WARN]: [BlueMap] BlueMap is missing important resources!
-[22:14:20] [BlueMap-Load/WARN]: [BlueMap] You must accept the required file download in order for BlueMap to work!
-[22:14:20] [BlueMap-Load/WARN]: [BlueMap] Please check: /data/plugins/BlueMap/core.conf
-[22:14:20] [BlueMap-Load/INFO]: [BlueMap] If you have changed the config you can simply reload the plugin using: /bluemap reload
-[22:14:20] [Server thread/INFO]: [InfiniteVillagerTrades] Enabled InstantRestock!
-[22:14:20] [Server thread/INFO]: [FallingTrees] Enabling FallingTrees v1.0-SNAPSHOT
-[22:14:20] [Server thread/INFO]: [LagAssist] Enabling LagAssist v2.32.2
-[22:14:20] [Server thread/INFO]: §2§lLag§f§lAssist §e» §fEnabling Systems:
-[22:14:20] [Server thread/INFO]:     §e[§a✔§e] §fEconomy manager
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fSmart Mob Tools.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fMicroFeatures.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fHopper Manager.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fRedstone Culler.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fPhysics-Tweaker.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fLag Monitor.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fMapVisualizer.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fChunk Analyser.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fChunk Limiter.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fStatsAnalyse.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fGUI.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fInjecting PacketListener.
-[22:14:21] [Server thread/INFO]:     §e[§a✔§e] §fAPI Tools.
-[22:14:21] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.8
-[22:14:22] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world"
-[22:14:22] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
-[22:14:22] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
-[22:14:22] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
-[22:14:22] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
-[22:14:22] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
-[22:14:22] [Server thread/INFO]: Starting remote control listener
-[22:14:22] [Server thread/INFO]: Thread RCON Listener started
-[22:14:22] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[22:14:22] [Server thread/INFO]: Running delayed init tasks
-[22:14:22] [Server thread/INFO]: Done (18.378s)! For help, type "help"
-[22:14:22] [Server thread/INFO]: Timings Reset
-[22:14:22] [Server thread/INFO]: [voicechat] Loading plugins
-[22:14:22] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[22:14:22] [Server thread/INFO]: [voicechat] Initializing plugins
-[22:14:22] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[22:14:22] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[22:14:23] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[22:14:23] [Craft Scheduler Thread - 3 - LagAssist/INFO]: §2§lLag§f§lAssist §e» §fYou are up to date with LagAssist.
+[04:54:39] [Server thread/INFO]: Stopping server
+[04:54:39] [Server thread/INFO]: [DeathChest] Disabling DeathChest v2.2.8
+[04:54:39] [Server thread/INFO]: [LagAssist] Disabling LagAssist v2.32.2
+[04:54:39] [Server thread/INFO]: [FallingTrees] Disabling FallingTrees v1.0-SNAPSHOT
+[04:54:39] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.2
+[04:54:39] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.25
+[04:54:39] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.7
+[04:54:39] [Server thread/INFO]: [BlueMap] Stopping...
+[04:54:39] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[04:54:39] [Server thread/INFO]: Saving players
+[04:54:39] [Server thread/INFO]: Saving worlds
+[04:54:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:54:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:54:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:54:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:54:40] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[04:54:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:54:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:54:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:54:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:54:40] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:54:40] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 48 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[04:54:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:54:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:54:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:54:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:54:40] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:54:40] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[04:54:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:54:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:54:40] [Server thread/INFO]: Flushing Chunk IO
+[04:54:40] [Server thread/INFO]: Closing Thread Pool
+[04:54:40] [Server thread/INFO]: Closing Server
