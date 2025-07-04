@@ -124,3 +124,5 @@
 [10:39:05] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [10:39:05] [Craft Scheduler Thread - 3 - LagAssist/INFO]: §2§lLag§f§lAssist §e» §fYou are up to date with LagAssist.
 [10:39:05] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[16:24:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[16:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
