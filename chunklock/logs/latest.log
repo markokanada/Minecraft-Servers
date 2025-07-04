@@ -126,3 +126,5 @@
 [10:39:05] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
 [16:24:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
 [16:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[18:09:43] [Craft Scheduler Thread - 1813 - DeathChest/INFO]: [DeathChest] Unable to check for updates: Server returned HTTP response code: 500 for URL: https://hangar.papermc.io/api/v1/projects/DeathChest/latestrelease
+[18:09:43] [Craft Scheduler Thread - 1813 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
