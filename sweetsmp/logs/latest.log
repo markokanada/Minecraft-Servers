@@ -70,3 +70,25 @@
 [18:04:44] [Server thread/INFO]: Made KellSooo a server operator
 [18:04:49] [Server thread/INFO]: KellSooo lost connection: Disconnected
 [18:04:49] [Server thread/INFO]: KellSooo left the game
+[18:28:02] [User Authenticator #2/INFO]: UUID of player KellSooo is a2734328-2c10-3d2a-9218-1cbec0b72330
+[18:28:03] [Server thread/INFO]: KellSooo joined the game
+[18:28:03] [Server thread/INFO]: KellSooo[/192.168.0.1:63384] logged in with entity id 4971 at ([world]-4.5, 66.0, 2.5)
+[18:28:08] [User Authenticator #2/INFO]: UUID of player Kelpye is ff11cf0b-2cef-3c91-92fb-bd90f49fdeda
+[18:28:08] [Server thread/INFO]: Kelpye joined the game
+[18:28:08] [Server thread/INFO]: Kelpye[/31.46.251.199:57948] logged in with entity id 4999 at ([world]-2.5, 67.0, -7.5)
+[18:28:08] [Async Chat Thread - #3/INFO]: [Not Secure] <KellSooo> 6time set day
+[18:28:10] [User Authenticator #2/INFO]: UUID of player Umiko is 071fe76e-ae73-3b66-98e0-38db2c84edee
+[18:28:11] [Server thread/INFO]: Umiko joined the game
+[18:28:11] [Server thread/INFO]: Umiko[/85.238.83.252:62479] logged in with entity id 5006 at ([world]-1.5, 63.0, -4.5)
+[18:28:16] [Server thread/INFO]: KellSooo issued server command: /time set day
+[18:28:16] [Server thread/INFO]: [KellSooo: Set the time to 1000]
+[18:28:26] [Server thread/INFO]: KellSooo issued server command: /op Kelpye
+[18:28:26] [Server thread/INFO]: [KellSooo: Made Kelpye a server operator]
+[18:28:28] [Server thread/INFO]: KellSooo issued server command: /op Umiko
+[18:28:28] [Server thread/INFO]: [KellSooo: Made Umiko a server operator]
+[18:28:43] [Server thread/INFO]: Umiko has made the advancement [Monster Hunter]
+[18:30:34] [Server thread/INFO]: KellSooo has made the advancement [Monster Hunter]
+[18:30:56] [Server thread/INFO]: Kelpye has made the advancement [Stone Age]
+[18:31:06] [Server thread/INFO]: KellSooo was blown up by Creeper
+[18:32:39] [Server thread/INFO]: Kelpye has made the advancement [Monster Hunter]
+[18:37:53] [Server thread/INFO]: Kelpye has made the advancement [Getting an Upgrade]
