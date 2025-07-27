@@ -96,3 +96,12 @@
 [18:45:02] [Server thread/INFO]: KellSooo issued server command: /gamerule playersSleepingPercentage 66
 [18:45:02] [Server thread/INFO]: [KellSooo: Gamerule playersSleepingPercentage is now set to: 66]
 [18:58:18] [Server thread/INFO]: Umiko has made the advancement [Sweet Dreams]
+[19:06:41] [Server thread/WARN]: Spruce Boat (vehicle of Kelpye) moved wrongly! 0.2673093095648369
+[19:08:08] [Server thread/INFO]: Umiko drowned
+[19:08:19] [Server thread/INFO]: KellSooo issued server command: /tp Umiko KellSooo
+[19:08:19] [Server thread/INFO]: [KellSooo: Teleported Umiko to KellSooo]
+[19:09:37] [Server thread/INFO]: Umiko drowned
+[19:09:48] [Server thread/INFO]: KellSooo issued server command: /tp Umiko KellSooo
+[19:09:48] [Server thread/INFO]: [KellSooo: Teleported Umiko to KellSooo]
+[19:13:43] [Server thread/INFO]: Kelpye has made the advancement [Take Aim]
+[19:14:55] [Server thread/INFO]: KellSooo has made the advancement [Sweet Dreams]
