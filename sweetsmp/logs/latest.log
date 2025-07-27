@@ -55,3 +55,18 @@
 [17:59:12] [Server thread/INFO]: KellSooo[/192.168.0.1:63020] logged in with entity id 40 at ([world]3.5, 67.0, 6.5)
 [17:59:21] [Async Chat Thread - #0/INFO]: [Not Secure] <KellSooo> 6tps
 [17:59:23] [Server thread/INFO]: KellSooo issued server command: /tps
+[18:02:35] [Server thread/INFO]: KellSooo lost connection: Disconnected
+[18:02:35] [Server thread/INFO]: KellSooo left the game
+[18:03:14] [User Authenticator #1/INFO]: UUID of player KellSooo is a2734328-2c10-3d2a-9218-1cbec0b72330
+[18:03:14] [Server thread/INFO]: KellSooo joined the game
+[18:03:14] [Server thread/INFO]: KellSooo[/192.168.0.1:63123] logged in with entity id 3958 at ([world]-3.300000011920929, 71.47587773065645, 0.30000001192092896)
+[18:03:24] [Server thread/INFO]: KellSooo was slain by Zombie Villager
+[18:03:54] [Async Chat Thread - #1/INFO]: [Not Secure] <KellSooo> a
+[18:04:04] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[18:04:04] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[18:04:04] [Server thread/INFO]: [Not Secure] [Rcon] Hello from Docker!
+[18:04:08] [Async Chat Thread - #1/INFO]: [Not Secure] <KellSooo> a
+[18:04:36] [Async Chat Thread - #1/INFO]: [Not Secure] <KellSooo> a
+[18:04:44] [Server thread/INFO]: Made KellSooo a server operator
+[18:04:49] [Server thread/INFO]: KellSooo lost connection: Disconnected
+[18:04:49] [Server thread/INFO]: KellSooo left the game
