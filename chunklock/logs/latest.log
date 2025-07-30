@@ -1,2 +1,1 @@
-[21:57:11] [Craft Scheduler Thread - 75601 - DeathChest/INFO]: [DeathChest] Unable to check for updates: hangar.papermc.io
-[21:57:11] [Craft Scheduler Thread - 75601 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
+[01:32:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
