@@ -41,3 +41,6 @@
 [21:18:23] [User Authenticator #13/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
 [21:18:23] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:49609): You are not whitelisted on this server!
 [21:18:23] [Server thread/INFO]: Player (/156.146.63.150:49609) lost connection: You are not whitelisted on this server!
+[22:33:52] [User Authenticator #14/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
+[22:33:52] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:43873): You are not whitelisted on this server!
+[22:33:52] [Server thread/INFO]: Player (/156.146.63.150:43873) lost connection: You are not whitelisted on this server!
