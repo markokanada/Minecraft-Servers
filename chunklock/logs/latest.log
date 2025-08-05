@@ -37,3 +37,7 @@
 [20:03:04] [User Authenticator #12/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
 [20:03:04] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:19933): You are not whitelisted on this server!
 [20:03:04] [Server thread/INFO]: Player (/156.146.63.150:19933) lost connection: You are not whitelisted on this server!
+[21:12:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[21:18:23] [User Authenticator #13/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
+[21:18:23] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:49609): You are not whitelisted on this server!
+[21:18:23] [Server thread/INFO]: Player (/156.146.63.150:49609) lost connection: You are not whitelisted on this server!
