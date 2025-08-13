@@ -1,21 +1,33 @@
-[01:26:44] [User Authenticator #65/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
-[01:26:44] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:32599): You are not whitelisted on this server!
-[01:26:44] [Server thread/INFO]: Player (/156.146.63.150:32599) lost connection: You are not whitelisted on this server!
-[03:26:41] [User Authenticator #66/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
-[03:26:41] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:10353): You are not whitelisted on this server!
-[03:26:41] [Server thread/INFO]: Player (/156.146.63.150:10353) lost connection: You are not whitelisted on this server!
-[05:27:12] [User Authenticator #67/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
-[05:27:12] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:22897): You are not whitelisted on this server!
-[05:27:12] [Server thread/INFO]: Player (/156.146.63.150:22897) lost connection: You are not whitelisted on this server!
-[06:54:58] [User Authenticator #68/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
-[06:54:58] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:15841): You are not whitelisted on this server!
-[06:54:58] [Server thread/INFO]: Player (/156.146.63.150:15841) lost connection: You are not whitelisted on this server!
-[08:22:55] [User Authenticator #69/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
-[08:22:55] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:37159): You are not whitelisted on this server!
-[08:22:55] [Server thread/INFO]: Player (/156.146.63.150:37159) lost connection: You are not whitelisted on this server!
-[09:51:05] [User Authenticator #70/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
-[09:51:05] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:22489): You are not whitelisted on this server!
-[09:51:05] [Server thread/INFO]: Player (/156.146.63.150:22489) lost connection: You are not whitelisted on this server!
-[11:19:44] [User Authenticator #71/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
-[11:19:44] [Server thread/INFO]: Disconnecting Player (/156.146.63.150:10759): You are not whitelisted on this server!
-[11:19:44] [Server thread/INFO]: Player (/156.146.63.150:10759) lost connection: You are not whitelisted on this server!
+[13:14:12] [Server thread/INFO]: Stopping server
+[13:14:12] [Server thread/INFO]: [DeathChest] Disabling DeathChest v2.2.8
+[13:14:15] [Server thread/INFO]: [LagAssist] Disabling LagAssist v2.32.2
+[13:14:15] [Server thread/INFO]: [FallingTrees] Disabling FallingTrees v1.0-SNAPSHOT
+[13:14:15] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.2
+[13:14:15] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.25
+[13:14:16] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.7
+[13:14:16] [Server thread/INFO]: [BlueMap] Stopping...
+[13:14:16] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[13:14:16] [Server thread/INFO]: Saving players
+[13:14:16] [Server thread/INFO]: Saving worlds
+[13:14:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:14:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:14:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:14:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:14:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.28s
+[13:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:14:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:14:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:14:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:14:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:14:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 48 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[13:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:14:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:14:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:14:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:14:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:14:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[13:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:14:17] [Server thread/INFO]: Flushing Chunk IO
+[13:14:17] [Server thread/INFO]: Closing Thread Pool
+[13:14:17] [Server thread/INFO]: Closing Server

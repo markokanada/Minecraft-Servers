@@ -10,3 +10,13 @@
 [09:41:30] [Server thread/INFO]: Player (/156.146.63.150:50277) lost connection: Disconnected
 [12:10:37] [User Authenticator #77/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
 [12:10:37] [Server thread/INFO]: Player (/156.146.63.150:20867) lost connection: Disconnected
+[13:14:11] [Server thread/INFO]: Stopping server
+[13:14:12] [Server thread/INFO]: Saving players
+[13:14:12] [Server thread/INFO]: Saving worlds
+[13:14:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:14:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:14:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:14:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:14:14] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 67 entity chunks, 0 poi chunks in world 'world' in 1.56s
+[13:14:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[13:14:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
