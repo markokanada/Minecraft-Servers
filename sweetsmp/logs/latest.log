@@ -20,3 +20,5 @@
 [18:21:30] [Server thread/INFO]: Player (/156.146.63.150:50831) lost connection: Disconnected
 [20:40:25] [User Authenticator #70/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
 [20:40:25] [Server thread/INFO]: Player (/156.146.63.150:53905) lost connection: Disconnected
+[23:41:18] [User Authenticator #71/INFO]: UUID of player Player is a01e3843-e521-3998-958a-f459800e4d11
+[23:41:18] [Server thread/INFO]: Player (/156.146.63.150:56667) lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
