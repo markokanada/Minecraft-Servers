@@ -58,3 +58,4 @@ Things may not work well.
 [06Sep2025 21:29:15.542] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
 [06Sep2025 21:29:15.586] [LanServerPinger #1/WARN] [net.minecraft.client.server.LanServerPinger/]: LanServerPinger: Network is unreachable
 [06Sep2025 21:29:15.591] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Sep2025 22:19:24.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9993ms or 199 ticks behind
