@@ -47,3 +47,4 @@
 [09:59:33] [Server thread/INFO]: RCON running on 0.0.0.0:25575
 [09:59:33] [Server thread/INFO]: Running delayed init tasks
 [09:59:33] [Server thread/INFO]: Done (28.908s)! For help, type "help"
+[21:53:30] [Server thread/INFO]: /51.158.65.133:1001 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'

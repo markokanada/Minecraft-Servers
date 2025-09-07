@@ -124,3 +124,4 @@
 [09:59:45] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [09:59:45] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
 [09:59:45] [Craft Scheduler Thread - 3 - LagAssist/INFO]: §2§lLag§f§lAssist §e» §fYou are up to date with LagAssist.
+[21:53:32] [Server thread/INFO]: /51.158.65.133:1001 lost connection: Disconnected
