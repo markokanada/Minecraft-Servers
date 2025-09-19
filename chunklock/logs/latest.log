@@ -1,1 +1,2 @@
-[05:34:15] [Server thread/INFO]: /176.65.134.6:63555 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
+[04:01:55] [Craft Scheduler Thread - 68117 - DeathChest/INFO]: [DeathChest] Unable to check for updates: Connection timed out
+[04:01:55] [Craft Scheduler Thread - 68117 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
