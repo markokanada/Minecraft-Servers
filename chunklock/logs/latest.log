@@ -1,2 +1,4 @@
 [07:30:17] [Craft Scheduler Thread - 167511 - DeathChest/INFO]: [DeathChest] Unable to check for updates: Server returned HTTP response code: 500 for URL: https://hangar.papermc.io/api/v1/projects/DeathChest/latestrelease
 [07:30:17] [Craft Scheduler Thread - 167511 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
+[09:30:15] [Craft Scheduler Thread - 167992 - DeathChest/INFO]: [DeathChest] Unable to check for updates: Server returned HTTP response code: 500 for URL: https://hangar.papermc.io/api/v1/projects/DeathChest/latestrelease
+[09:30:15] [Craft Scheduler Thread - 167992 - DeathChest/INFO]: [DeathChest] To disable this message set the update checker to false in the config.yml
